@@ -1,4 +1,4 @@
-name: Pipeline — calcul batch (prévisions, risques, tournées)
+﻿name: Pipeline — calcul batch (prévisions, risques, tournées)
 
 # Déclenchement :
 #   - Manuel depuis l'onglet Actions GitHub (avec option --advance-week)
@@ -40,10 +40,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: "pip"
 
       - name: Installer les dépendances
-        run: pip install -r ml/requirements.txt
+        run: pip install --no-cache-dir -r ml/requirements.txt
 
       - name: Vérifier le fichier modèle
         run: python ml/scripts/verify_model.py
@@ -71,3 +70,4 @@ jobs:
         run: |
           echo "Pipeline terminé. Vérifier dans Supabase que current_run_id a été mis à jour."
           echo "Commande : SELECT value FROM app_config WHERE key = 'current_run_id';"
+
