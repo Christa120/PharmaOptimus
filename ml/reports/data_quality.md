@@ -1,6 +1,6 @@
 # Rapport de Contrôle Qualité des Données
 Généré automatiquement par `data/simulator/build_datasets.py` — seed=42
-Date de génération : 2026-10-01 22:33:28
+Date de génération : 2026-10-02 19:29:12
 
 ---
 
