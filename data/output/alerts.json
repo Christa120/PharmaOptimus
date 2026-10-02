@@ -1,0 +1,1234 @@
+[
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 220.0,
+    "message": "Risque péremption : 220 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "SP",
+    "alert_type": "stockout_risk",
+    "p_rupture_14j": 0.562,
+    "message": "Risque rupture 14 j : 56.2%.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "CEFT",
+    "alert_type": "stockout_critical",
+    "days_coverage": 3.4,
+    "message": "Couverture critique : 3.4 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "METF",
+    "alert_type": "stockout_critical",
+    "days_coverage": 5.6,
+    "message": "Couverture critique : 5.6 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "MGSO4",
+    "alert_type": "stockout_critical",
+    "days_coverage": 6.8,
+    "message": "Couverture critique : 6.8 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 117.7,
+    "message": "Risque péremption : 118 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "ROUG",
+    "alert_type": "expiry_risk",
+    "days_coverage": 94.6,
+    "message": "Risque péremption : 95 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "BCG",
+    "alert_type": "stockout_critical",
+    "days_coverage": 4.4,
+    "message": "Couverture critique : 4.4 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "BCG",
+    "alert_type": "stockout_risk",
+    "p_rupture_14j": 0.967,
+    "message": "Risque rupture 14 j : 96.7%.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 151.2,
+    "message": "Risque péremption : 151 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "PENTA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 92.5,
+    "message": "Risque péremption : 93 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "RINGER",
+    "alert_type": "expiry_risk",
+    "days_coverage": 111.3,
+    "message": "Risque péremption : 111 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "AMOX",
+    "alert_type": "expiry_risk",
+    "days_coverage": 163.3,
+    "message": "Risque péremption : 163 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "ARTINJ",
+    "alert_type": "stockout_risk",
+    "p_rupture_14j": 0.826,
+    "message": "Risque rupture 14 j : 82.6%.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "INS",
+    "alert_type": "stockout_critical",
+    "days_coverage": 4.8,
+    "message": "Couverture critique : 4.8 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "MGSO4",
+    "alert_type": "stockout_critical",
+    "days_coverage": 3.8,
+    "message": "Couverture critique : 3.8 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "MISO",
+    "alert_type": "stockout_critical",
+    "days_coverage": 4.8,
+    "message": "Couverture critique : 4.8 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "MISO",
+    "alert_type": "stockout_risk",
+    "p_rupture_14j": 0.517,
+    "message": "Risque rupture 14 j : 51.7%.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 113.5,
+    "message": "Risque péremption : 113 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "PENTA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 222.9,
+    "message": "Risque péremption : 223 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "RINGER",
+    "alert_type": "expiry_risk",
+    "days_coverage": 223.3,
+    "message": "Risque péremption : 223 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "SP",
+    "alert_type": "expiry_risk",
+    "days_coverage": 100.9,
+    "message": "Risque péremption : 101 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "TDR",
+    "alert_type": "expiry_risk",
+    "days_coverage": 122.1,
+    "message": "Risque péremption : 122 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "ACT",
+    "alert_type": "expiry_risk",
+    "days_coverage": 365.0,
+    "message": "Risque péremption : 365 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "AMLO",
+    "alert_type": "expiry_risk",
+    "days_coverage": 213.0,
+    "message": "Risque péremption : 213 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "AMOX",
+    "alert_type": "expiry_risk",
+    "days_coverage": 365.0,
+    "message": "Risque péremption : 365 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "ARTINJ",
+    "alert_type": "stockout_critical",
+    "days_coverage": 0.0,
+    "message": "Couverture critique : 0.0 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "ARTINJ",
+    "alert_type": "stockout_risk",
+    "p_rupture_14j": 1.0,
+    "message": "Risque rupture 14 j : 100.0%.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "INS",
+    "alert_type": "expiry_risk",
+    "days_coverage": 163.9,
+    "message": "Risque péremption : 164 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "METF",
+    "alert_type": "expiry_risk",
+    "days_coverage": 115.6,
+    "message": "Risque péremption : 116 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "MISO",
+    "alert_type": "expiry_risk",
+    "days_coverage": 238.6,
+    "message": "Risque péremption : 239 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "OXY",
+    "alert_type": "expiry_risk",
+    "days_coverage": 113.1,
+    "message": "Risque péremption : 113 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 365.0,
+    "message": "Risque péremption : 365 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "PENTA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 123.6,
+    "message": "Risque péremption : 124 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "ROUG",
+    "alert_type": "expiry_risk",
+    "days_coverage": 140.1,
+    "message": "Risque péremption : 140 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "SP",
+    "alert_type": "expiry_risk",
+    "days_coverage": 102.3,
+    "message": "Risque péremption : 102 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "SRO",
+    "alert_type": "expiry_risk",
+    "days_coverage": 151.6,
+    "message": "Risque péremption : 152 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "TDR",
+    "alert_type": "expiry_risk",
+    "days_coverage": 92.3,
+    "message": "Risque péremption : 92 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "ZINC",
+    "alert_type": "expiry_risk",
+    "days_coverage": 365.0,
+    "message": "Risque péremption : 365 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "ACT",
+    "alert_type": "expiry_risk",
+    "days_coverage": 365.0,
+    "message": "Risque péremption : 365 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "AMOX",
+    "alert_type": "expiry_risk",
+    "days_coverage": 365.0,
+    "message": "Risque péremption : 365 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "ARTINJ",
+    "alert_type": "expiry_risk",
+    "days_coverage": 91.2,
+    "message": "Risque péremption : 91 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "BCG",
+    "alert_type": "expiry_risk",
+    "days_coverage": 115.9,
+    "message": "Risque péremption : 116 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "CEFT",
+    "alert_type": "expiry_risk",
+    "days_coverage": 334.9,
+    "message": "Risque péremption : 335 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "INS",
+    "alert_type": "expiry_risk",
+    "days_coverage": 256.9,
+    "message": "Risque péremption : 257 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "METF",
+    "alert_type": "expiry_risk",
+    "days_coverage": 255.3,
+    "message": "Risque péremption : 255 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "MGSO4",
+    "alert_type": "expiry_risk",
+    "days_coverage": 118.6,
+    "message": "Risque péremption : 119 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "MISO",
+    "alert_type": "expiry_risk",
+    "days_coverage": 152.6,
+    "message": "Risque péremption : 153 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "OXY",
+    "alert_type": "expiry_risk",
+    "days_coverage": 192.1,
+    "message": "Risque péremption : 192 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 285.2,
+    "message": "Risque péremption : 285 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "PENTA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 242.7,
+    "message": "Risque péremption : 243 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "RINGER",
+    "alert_type": "expiry_risk",
+    "days_coverage": 207.1,
+    "message": "Risque péremption : 207 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "ROUG",
+    "alert_type": "expiry_risk",
+    "days_coverage": 326.6,
+    "message": "Risque péremption : 327 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "SP",
+    "alert_type": "expiry_risk",
+    "days_coverage": 176.1,
+    "message": "Risque péremption : 176 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "SRO",
+    "alert_type": "expiry_risk",
+    "days_coverage": 92.5,
+    "message": "Risque péremption : 93 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "TDR",
+    "alert_type": "expiry_risk",
+    "days_coverage": 273.3,
+    "message": "Risque péremption : 273 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "ACT",
+    "alert_type": "expiry_risk",
+    "days_coverage": 310.5,
+    "message": "Risque péremption : 310 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "AMLO",
+    "alert_type": "expiry_risk",
+    "days_coverage": 140.6,
+    "message": "Risque péremption : 141 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "AMOX",
+    "alert_type": "expiry_risk",
+    "days_coverage": 365.0,
+    "message": "Risque péremption : 365 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "CEFT",
+    "alert_type": "expiry_risk",
+    "days_coverage": 114.3,
+    "message": "Risque péremption : 114 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "INS",
+    "alert_type": "expiry_risk",
+    "days_coverage": 91.2,
+    "message": "Risque péremption : 91 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "METF",
+    "alert_type": "expiry_risk",
+    "days_coverage": 196.5,
+    "message": "Risque péremption : 196 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "MISO",
+    "alert_type": "stockout_risk",
+    "p_rupture_14j": 0.575,
+    "message": "Risque rupture 14 j : 57.5%.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "OXY",
+    "alert_type": "expiry_risk",
+    "days_coverage": 126.7,
+    "message": "Risque péremption : 127 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 194.6,
+    "message": "Risque péremption : 195 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "PENTA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 365.0,
+    "message": "Risque péremption : 365 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "RINGER",
+    "alert_type": "stockout_risk",
+    "p_rupture_14j": 0.73,
+    "message": "Risque rupture 14 j : 73.0%.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "RINGER",
+    "alert_type": "expiry_risk",
+    "days_coverage": 93.8,
+    "message": "Risque péremption : 94 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "ROUG",
+    "alert_type": "expiry_risk",
+    "days_coverage": 363.7,
+    "message": "Risque péremption : 364 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "SP",
+    "alert_type": "expiry_risk",
+    "days_coverage": 365.0,
+    "message": "Risque péremption : 365 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "SRO",
+    "alert_type": "expiry_risk",
+    "days_coverage": 365.0,
+    "message": "Risque péremption : 365 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "TDR",
+    "alert_type": "expiry_risk",
+    "days_coverage": 160.2,
+    "message": "Risque péremption : 160 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "ZINC",
+    "alert_type": "expiry_risk",
+    "days_coverage": 185.8,
+    "message": "Risque péremption : 186 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "ARTINJ",
+    "alert_type": "expiry_risk",
+    "days_coverage": 145.4,
+    "message": "Risque péremption : 145 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "MISO",
+    "alert_type": "stockout_critical",
+    "days_coverage": 1.5,
+    "message": "Couverture critique : 1.5 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "MISO",
+    "alert_type": "stockout_risk",
+    "p_rupture_14j": 0.912,
+    "message": "Risque rupture 14 j : 91.2%.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "RINGER",
+    "alert_type": "expiry_risk",
+    "days_coverage": 129.1,
+    "message": "Risque péremption : 129 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "SP",
+    "alert_type": "expiry_risk",
+    "days_coverage": 113.4,
+    "message": "Risque péremption : 113 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "SRO",
+    "alert_type": "expiry_risk",
+    "days_coverage": 104.9,
+    "message": "Risque péremption : 105 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "AMOX",
+    "alert_type": "stockout_risk",
+    "p_rupture_14j": 0.829,
+    "message": "Risque rupture 14 j : 82.9%.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 92.1,
+    "message": "Risque péremption : 92 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "PENTA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 102.0,
+    "message": "Risque péremption : 102 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "AMOX",
+    "alert_type": "expiry_risk",
+    "days_coverage": 211.3,
+    "message": "Risque péremption : 211 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "OXY",
+    "alert_type": "expiry_risk",
+    "days_coverage": 102.0,
+    "message": "Risque péremption : 102 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 164.9,
+    "message": "Risque péremption : 165 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "RINGER",
+    "alert_type": "expiry_risk",
+    "days_coverage": 117.1,
+    "message": "Risque péremption : 117 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "TDR",
+    "alert_type": "expiry_risk",
+    "days_coverage": 330.9,
+    "message": "Risque péremption : 331 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "ZINC",
+    "alert_type": "expiry_risk",
+    "days_coverage": 110.8,
+    "message": "Risque péremption : 111 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-aplahoue",
+    "product_id": "ACT",
+    "alert_type": "expiry_risk",
+    "days_coverage": 170.4,
+    "message": "Risque péremption : 170 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-aplahoue",
+    "product_id": "TDR",
+    "alert_type": "expiry_risk",
+    "days_coverage": 139.2,
+    "message": "Risque péremption : 139 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "ACT",
+    "alert_type": "expiry_risk",
+    "days_coverage": 122.4,
+    "message": "Risque péremption : 122 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "AMOX",
+    "alert_type": "expiry_risk",
+    "days_coverage": 98.5,
+    "message": "Risque péremption : 99 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "ZINC",
+    "alert_type": "stockout_risk",
+    "p_rupture_14j": 0.648,
+    "message": "Risque rupture 14 j : 64.8%.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-bassila",
+    "product_id": "ACT",
+    "alert_type": "expiry_risk",
+    "days_coverage": 238.2,
+    "message": "Risque péremption : 238 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-bassila",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 142.4,
+    "message": "Risque péremption : 142 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "ACT",
+    "alert_type": "expiry_risk",
+    "days_coverage": 92.3,
+    "message": "Risque péremption : 92 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "ARTINJ",
+    "alert_type": "expiry_risk",
+    "days_coverage": 101.6,
+    "message": "Risque péremption : 102 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 226.1,
+    "message": "Risque péremption : 226 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "RINGER",
+    "alert_type": "expiry_risk",
+    "days_coverage": 264.3,
+    "message": "Risque péremption : 264 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "SP",
+    "alert_type": "expiry_risk",
+    "days_coverage": 135.0,
+    "message": "Risque péremption : 135 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "AMOX",
+    "alert_type": "expiry_risk",
+    "days_coverage": 225.3,
+    "message": "Risque péremption : 225 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "CEFT",
+    "alert_type": "stockout_critical",
+    "days_coverage": 6.7,
+    "message": "Couverture critique : 6.7 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 131.8,
+    "message": "Risque péremption : 132 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "ACT",
+    "alert_type": "expiry_risk",
+    "days_coverage": 127.6,
+    "message": "Risque péremption : 128 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "AMOX",
+    "alert_type": "expiry_risk",
+    "days_coverage": 158.9,
+    "message": "Risque péremption : 159 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "ARTINJ",
+    "alert_type": "stockout_risk",
+    "p_rupture_14j": 0.692,
+    "message": "Risque rupture 14 j : 69.2%.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "ARV",
+    "alert_type": "stockout_critical",
+    "days_coverage": 1.8,
+    "message": "Couverture critique : 1.8 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 203.2,
+    "message": "Risque péremption : 203 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "RINGER",
+    "alert_type": "expiry_risk",
+    "days_coverage": 107.4,
+    "message": "Risque péremption : 107 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "ACT",
+    "alert_type": "stockout_critical",
+    "days_coverage": 3.3,
+    "message": "Couverture critique : 3.3 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "ACT",
+    "alert_type": "stockout_risk",
+    "p_rupture_14j": 0.58,
+    "message": "Risque rupture 14 j : 58.0%.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "ARTINJ",
+    "alert_type": "stockout_risk",
+    "p_rupture_14j": 0.871,
+    "message": "Risque rupture 14 j : 87.1%.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "MGSO4",
+    "alert_type": "stockout_critical",
+    "days_coverage": 6.1,
+    "message": "Couverture critique : 6.1 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-dassa",
+    "product_id": "ARV",
+    "alert_type": "stockout_critical",
+    "days_coverage": 1.1,
+    "message": "Couverture critique : 1.1 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-dassa",
+    "product_id": "CEFT",
+    "alert_type": "stockout_critical",
+    "days_coverage": 5.8,
+    "message": "Couverture critique : 5.8 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "BCG",
+    "alert_type": "stockout_critical",
+    "days_coverage": 4.1,
+    "message": "Couverture critique : 4.1 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "CEFT",
+    "alert_type": "stockout_critical",
+    "days_coverage": 4.8,
+    "message": "Couverture critique : 4.8 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 116.6,
+    "message": "Risque péremption : 117 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "ACT",
+    "alert_type": "expiry_risk",
+    "days_coverage": 213.1,
+    "message": "Risque péremption : 213 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "AMOX",
+    "alert_type": "expiry_risk",
+    "days_coverage": 129.3,
+    "message": "Risque péremption : 129 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 106.6,
+    "message": "Risque péremption : 107 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "RINGER",
+    "alert_type": "stockout_critical",
+    "days_coverage": 5.0,
+    "message": "Couverture critique : 5.0 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "ACT",
+    "alert_type": "expiry_risk",
+    "days_coverage": 99.7,
+    "message": "Risque péremption : 100 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "AMOX",
+    "alert_type": "expiry_risk",
+    "days_coverage": 112.6,
+    "message": "Risque péremption : 113 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "CEFT",
+    "alert_type": "stockout_critical",
+    "days_coverage": 4.9,
+    "message": "Couverture critique : 4.9 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 221.1,
+    "message": "Risque péremption : 221 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 148.1,
+    "message": "Risque péremption : 148 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "RINGER",
+    "alert_type": "expiry_risk",
+    "days_coverage": 92.3,
+    "message": "Risque péremption : 92 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "SRO",
+    "alert_type": "expiry_risk",
+    "days_coverage": 132.4,
+    "message": "Risque péremption : 132 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "TDR",
+    "alert_type": "expiry_risk",
+    "days_coverage": 94.5,
+    "message": "Risque péremption : 94 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-kpomasse",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 108.6,
+    "message": "Risque péremption : 109 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "ACT",
+    "alert_type": "expiry_risk",
+    "days_coverage": 129.9,
+    "message": "Risque péremption : 130 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "AMOX",
+    "alert_type": "expiry_risk",
+    "days_coverage": 185.7,
+    "message": "Risque péremption : 186 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "MISO",
+    "alert_type": "expiry_risk",
+    "days_coverage": 138.9,
+    "message": "Risque péremption : 139 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 255.9,
+    "message": "Risque péremption : 256 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "RINGER",
+    "alert_type": "expiry_risk",
+    "days_coverage": 164.8,
+    "message": "Risque péremption : 165 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "TDR",
+    "alert_type": "expiry_risk",
+    "days_coverage": 135.8,
+    "message": "Risque péremption : 136 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "ACT",
+    "alert_type": "stockout_risk",
+    "p_rupture_14j": 0.835,
+    "message": "Risque rupture 14 j : 83.5%.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "ARTINJ",
+    "alert_type": "stockout_critical",
+    "days_coverage": 2.2,
+    "message": "Couverture critique : 2.2 j < 7 j.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "ARTINJ",
+    "alert_type": "stockout_risk",
+    "p_rupture_14j": 0.998,
+    "message": "Risque rupture 14 j : 99.8%.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 191.0,
+    "message": "Risque péremption : 191 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "SP",
+    "alert_type": "expiry_risk",
+    "days_coverage": 97.1,
+    "message": "Risque péremption : 97 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "SRO",
+    "alert_type": "expiry_risk",
+    "days_coverage": 101.9,
+    "message": "Risque péremption : 102 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "AMOX",
+    "alert_type": "expiry_risk",
+    "days_coverage": 141.2,
+    "message": "Risque péremption : 141 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "ARTINJ",
+    "alert_type": "stockout_risk",
+    "p_rupture_14j": 0.521,
+    "message": "Risque rupture 14 j : 52.1%.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "BCG",
+    "alert_type": "expiry_risk",
+    "days_coverage": 114.7,
+    "message": "Risque péremption : 115 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "OXY",
+    "alert_type": "expiry_risk",
+    "days_coverage": 149.4,
+    "message": "Risque péremption : 149 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 365.0,
+    "message": "Risque péremption : 365 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "PENTA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 107.3,
+    "message": "Risque péremption : 107 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "SP",
+    "alert_type": "expiry_risk",
+    "days_coverage": 107.2,
+    "message": "Risque péremption : 107 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "SRO",
+    "alert_type": "expiry_risk",
+    "days_coverage": 91.5,
+    "message": "Risque péremption : 91 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-nikki",
+    "product_id": "AMLO",
+    "alert_type": "expiry_risk",
+    "days_coverage": 115.2,
+    "message": "Risque péremption : 115 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-nikki",
+    "product_id": "AMOX",
+    "alert_type": "expiry_risk",
+    "days_coverage": 142.4,
+    "message": "Risque péremption : 142 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  },
+  {
+    "facility_id": "fac-cs-nikki",
+    "product_id": "PARA",
+    "alert_type": "expiry_risk",
+    "days_coverage": 165.6,
+    "message": "Risque péremption : 166 j de stock.",
+    "created_at": "2026-08-31T00:00:00"
+  }
+]

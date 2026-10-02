@@ -1,0 +1,102 @@
+name: CI — lint, tests, sécurité
+
+# Déclenché à chaque demande de fusion (pull request) et push sur main
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  python-tests:
+    name: Tests Python (pytest + ruff)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Configurer Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Installer les dépendances
+        run: pip install -r ml/requirements.txt ruff pytest
+
+      - name: Vérification du style (ruff)
+        run: ruff check ml/ data/
+
+      - name: Générer les données de test
+        run: python data/simulator/build_datasets.py
+
+      - name: Exécuter les tests simulateur
+        run: pytest ml/tests/test_simulator.py -v
+
+      - name: Exécuter les tests optimisation
+        run: pytest ml/tests/test_optim.py -v
+
+  frontend-checks:
+    name: Frontend (tsc + ESLint)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Configurer Node.js (version .nvmrc)
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: "npm"
+          cache-dependency-path: web/package-lock.json
+
+      - name: Installer les dépendances frontend
+        run: npm ci
+        working-directory: web
+
+      - name: Vérification TypeScript
+        run: npx tsc --noEmit
+        working-directory: web
+
+      - name: ESLint
+        run: npx next lint
+        working-directory: web
+
+      - name: Vérifier que le build échoue si USE_MOCKS=true
+        run: |
+          NEXT_PUBLIC_USE_MOCKS=true npm run build && echo "ERREUR: le build aurait dû échouer" && exit 1 || echo "OK: le build a bien échoué avec USE_MOCKS=true"
+        working-directory: web
+
+  security:
+    name: Sécurité (npm audit + secret scan)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Configurer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+
+      - name: npm audit (frontend)
+        run: npm audit --audit-level=critical
+        working-directory: web
+        continue-on-error: true  # Avertissement si vulnérabilité critique, pas blocage
+
+      - name: Vérifier absence de secrets (gitleaks)
+        uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true  # Ne pas bloquer la CI sur faux positifs
+
+      - name: Vérifier absence de clés dans .env.example
+        run: |
+          if grep -E "(GEMINI|AI_STUDIO|express|APP_URL)" .env.example; then
+            echo "ERREUR: .env.example contient des références interdites"
+            exit 1
+          fi
+          echo "OK: .env.example ne contient pas de clés interdites"

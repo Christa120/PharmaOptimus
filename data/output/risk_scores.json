@@ -1,0 +1,4602 @@
+[
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "ACT",
+    "days_coverage": 67.52731627,
+    "qty_on_hand": 1289,
+    "p_rupture_14j": 0.028,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1156
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "AMLO",
+    "days_coverage": 32.55,
+    "qty_on_hand": 186,
+    "p_rupture_14j": 0.237,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.104
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "AMOX",
+    "days_coverage": 38.9886405277,
+    "qty_on_hand": 456,
+    "p_rupture_14j": 0.272,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2165
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "ARTINJ",
+    "days_coverage": 46.8043264503,
+    "qty_on_hand": 272,
+    "p_rupture_14j": 0.251,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.3068
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "ARV",
+    "days_coverage": 63.9455782313,
+    "qty_on_hand": 376,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2047
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "BCG",
+    "days_coverage": 40.5429864253,
+    "qty_on_hand": 320,
+    "p_rupture_14j": 0.192,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1842
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "CEFT",
+    "days_coverage": 14.5821512523,
+    "qty_on_hand": 257,
+    "p_rupture_14j": 0.008,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1238
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "INS",
+    "days_coverage": 25.9153395944,
+    "qty_on_hand": 272,
+    "p_rupture_14j": 0.006,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.214
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "METF",
+    "days_coverage": 9.5826800145,
+    "qty_on_hand": 227,
+    "p_rupture_14j": 0.103,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0725
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "MGSO4",
+    "days_coverage": 22.5516516867,
+    "qty_on_hand": 276,
+    "p_rupture_14j": 0.05,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2333
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "MISO",
+    "days_coverage": 21.266801694,
+    "qty_on_hand": 165,
+    "p_rupture_14j": 0.192,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1909
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "OXY",
+    "days_coverage": 14.3906783435,
+    "qty_on_hand": 277,
+    "p_rupture_14j": 0.001,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1212
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "PARA",
+    "days_coverage": 219.9842177944,
+    "qty_on_hand": 1593,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0014
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "PENTA",
+    "days_coverage": 63.4892406189,
+    "qty_on_hand": 510,
+    "p_rupture_14j": 0.074,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1343
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "RINGER",
+    "days_coverage": 48.1117824773,
+    "qty_on_hand": 455,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0062
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "ROUG",
+    "days_coverage": 44.1654595204,
+    "qty_on_hand": 392,
+    "p_rupture_14j": 0.081,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1392
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "SP",
+    "days_coverage": 12.5642289012,
+    "qty_on_hand": 255,
+    "p_rupture_14j": 0.562,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2487
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "SRO",
+    "days_coverage": 84.1288625904,
+    "qty_on_hand": 914,
+    "p_rupture_14j": 0.001,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.004
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "TDR",
+    "days_coverage": 39.9825859817,
+    "qty_on_hand": 656,
+    "p_rupture_14j": 0.104,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0491
+  },
+  {
+    "facility_id": "fac-chd-atacora",
+    "product_id": "ZINC",
+    "days_coverage": 39.6169958109,
+    "qty_on_hand": 662,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0076
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "ACT",
+    "days_coverage": 48.7571365832,
+    "qty_on_hand": 793,
+    "p_rupture_14j": 0.102,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.147
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "AMLO",
+    "days_coverage": 11.5854944128,
+    "qty_on_hand": 157,
+    "p_rupture_14j": 0.24,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1219
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "AMOX",
+    "days_coverage": 43.469636863,
+    "qty_on_hand": 814,
+    "p_rupture_14j": 0.015,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1129
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "ARTINJ",
+    "days_coverage": 25.3507951356,
+    "qty_on_hand": 271,
+    "p_rupture_14j": 0.22,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2998
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "ARV",
+    "days_coverage": 25.1183386777,
+    "qty_on_hand": 235,
+    "p_rupture_14j": 0.007,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2147
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "BCG",
+    "days_coverage": 41.9783264076,
+    "qty_on_hand": 736,
+    "p_rupture_14j": 0.009,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1107
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "CEFT",
+    "days_coverage": 3.3974895397,
+    "qty_on_hand": 174,
+    "p_rupture_14j": 0.21,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2723
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "INS",
+    "days_coverage": 24.5791245791,
+    "qty_on_hand": 438,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2122
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "METF",
+    "days_coverage": 5.5534160055,
+    "qty_on_hand": 206,
+    "p_rupture_14j": 0.2,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.134
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "MGSO4",
+    "days_coverage": 6.8244828322,
+    "qty_on_hand": 320,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.244
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "MISO",
+    "days_coverage": 14.7940888841,
+    "qty_on_hand": 389,
+    "p_rupture_14j": 0.003,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1215
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "OXY",
+    "days_coverage": 23.9660127452,
+    "qty_on_hand": 548,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1125
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "PARA",
+    "days_coverage": 117.6708860759,
+    "qty_on_hand": 664,
+    "p_rupture_14j": 0.191,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0789
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "PENTA",
+    "days_coverage": 66.3298183948,
+    "qty_on_hand": 647,
+    "p_rupture_14j": 0.027,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1153
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "RINGER",
+    "days_coverage": 39.8162868751,
+    "qty_on_hand": 322,
+    "p_rupture_14j": 0.151,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0679
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "ROUG",
+    "days_coverage": 94.6107784431,
+    "qty_on_hand": 790,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1032
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "SP",
+    "days_coverage": 14.9065827362,
+    "qty_on_hand": 318,
+    "p_rupture_14j": 0.33,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1521
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "SRO",
+    "days_coverage": 47.397512667,
+    "qty_on_hand": 882,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0063
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "TDR",
+    "days_coverage": 37.0753873659,
+    "qty_on_hand": 711,
+    "p_rupture_14j": 0.072,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0369
+  },
+  {
+    "facility_id": "fac-chd-mono",
+    "product_id": "ZINC",
+    "days_coverage": 35.8058925477,
+    "qty_on_hand": 1033,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0084
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "ACT",
+    "days_coverage": 34.8892177416,
+    "qty_on_hand": 2425,
+    "p_rupture_14j": 0.012,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1134
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "AMLO",
+    "days_coverage": 20.7770670457,
+    "qty_on_hand": 877,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0144
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "AMOX",
+    "days_coverage": 85.5268022181,
+    "qty_on_hand": 661,
+    "p_rupture_14j": 0.367,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2503
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "ARTINJ",
+    "days_coverage": 86.0252156603,
+    "qty_on_hand": 926,
+    "p_rupture_14j": 0.001,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2039
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "ARV",
+    "days_coverage": 40.7333890514,
+    "qty_on_hand": 557,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2074
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "BCG",
+    "days_coverage": 4.4238345371,
+    "qty_on_hand": 77,
+    "p_rupture_14j": 0.967,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.5546
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "CEFT",
+    "days_coverage": 15.8980301275,
+    "qty_on_hand": 686,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1189
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "INS",
+    "days_coverage": 28.4497542014,
+    "qty_on_hand": 711,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2105
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "METF",
+    "days_coverage": 31.411088448,
+    "qty_on_hand": 968,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0096
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "MGSO4",
+    "days_coverage": 21.7871485944,
+    "qty_on_hand": 465,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2138
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "MISO",
+    "days_coverage": 49.3402371806,
+    "qty_on_hand": 844,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1061
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "OXY",
+    "days_coverage": 64.1516378358,
+    "qty_on_hand": 996,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1047
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "PARA",
+    "days_coverage": 151.1847046774,
+    "qty_on_hand": 3163,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.002
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "PENTA",
+    "days_coverage": 92.5217391304,
+    "qty_on_hand": 988,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1032
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "RINGER",
+    "days_coverage": 111.2544606094,
+    "qty_on_hand": 1158,
+    "p_rupture_14j": 0.001,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0031
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "ROUG",
+    "days_coverage": 41.1425432573,
+    "qty_on_hand": 642,
+    "p_rupture_14j": 0.081,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1397
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "SP",
+    "days_coverage": 58.7175648703,
+    "qty_on_hand": 1681,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0051
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "SRO",
+    "days_coverage": 30.0109802356,
+    "qty_on_hand": 859,
+    "p_rupture_14j": 0.09,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.046
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "TDR",
+    "days_coverage": 12.4174917492,
+    "qty_on_hand": 645,
+    "p_rupture_14j": 0.452,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.205
+  },
+  {
+    "facility_id": "fac-chd-zou",
+    "product_id": "ZINC",
+    "days_coverage": 21.6908472148,
+    "qty_on_hand": 692,
+    "p_rupture_14j": 0.066,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0402
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "ACT",
+    "days_coverage": 16.5388334945,
+    "qty_on_hand": 1417,
+    "p_rupture_14j": 0.011,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1225
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "AMLO",
+    "days_coverage": 17.3073810295,
+    "qty_on_hand": 611,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0173
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "AMOX",
+    "days_coverage": 163.2602604253,
+    "qty_on_hand": 1415,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1018
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "ARTINJ",
+    "days_coverage": 7.4226804124,
+    "qty_on_hand": 72,
+    "p_rupture_14j": 0.826,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.5708
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "ARV",
+    "days_coverage": 19.8438783895,
+    "qty_on_hand": 207,
+    "p_rupture_14j": 0.002,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2159
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "BCG",
+    "days_coverage": 41.8572609534,
+    "qty_on_hand": 651,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1072
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "CEFT",
+    "days_coverage": 19.5474544312,
+    "qty_on_hand": 311,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1153
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "INS",
+    "days_coverage": 4.757480931,
+    "qty_on_hand": 139,
+    "p_rupture_14j": 0.187,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.3379
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "METF",
+    "days_coverage": 12.3411016949,
+    "qty_on_hand": 233,
+    "p_rupture_14j": 0.039,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0399
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "MGSO4",
+    "days_coverage": 3.8398244652,
+    "qty_on_hand": 170,
+    "p_rupture_14j": 0.11,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.3221
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "MISO",
+    "days_coverage": 4.7613314874,
+    "qty_on_hand": 113,
+    "p_rupture_14j": 0.517,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.3698
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "OXY",
+    "days_coverage": 36.2288686606,
+    "qty_on_hand": 199,
+    "p_rupture_14j": 0.175,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1783
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "PARA",
+    "days_coverage": 113.4899189358,
+    "qty_on_hand": 780,
+    "p_rupture_14j": 0.081,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.035
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "PENTA",
+    "days_coverage": 222.8865979381,
+    "qty_on_hand": 1081,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1013
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "RINGER",
+    "days_coverage": 223.3145009416,
+    "qty_on_hand": 847,
+    "p_rupture_14j": 0.003,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0025
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "ROUG",
+    "days_coverage": 37.5061728395,
+    "qty_on_hand": 434,
+    "p_rupture_14j": 0.052,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1288
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "SP",
+    "days_coverage": 100.8710268949,
+    "qty_on_hand": 943,
+    "p_rupture_14j": 0.009,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0066
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "SRO",
+    "days_coverage": 72.1592407066,
+    "qty_on_hand": 782,
+    "p_rupture_14j": 0.004,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0058
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "TDR",
+    "days_coverage": 122.0849802372,
+    "qty_on_hand": 1412,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0025
+  },
+  {
+    "facility_id": "fac-chu-mel",
+    "product_id": "ZINC",
+    "days_coverage": 59.8426135686,
+    "qty_on_hand": 717,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.005
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "ACT",
+    "days_coverage": 365.0,
+    "qty_on_hand": 3015,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1008
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "AMLO",
+    "days_coverage": 212.9943502825,
+    "qty_on_hand": 754,
+    "p_rupture_14j": 0.063,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0266
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "AMOX",
+    "days_coverage": 365.0,
+    "qty_on_hand": 1994,
+    "p_rupture_14j": 0.012,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1056
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "ARTINJ",
+    "days_coverage": 0.0,
+    "qty_on_hand": 0,
+    "p_rupture_14j": 1.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.9
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "ARV",
+    "days_coverage": 17.9808841099,
+    "qty_on_hand": 172,
+    "p_rupture_14j": 0.126,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2671
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "BCG",
+    "days_coverage": 86.7918766224,
+    "qty_on_hand": 812,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1035
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "CEFT",
+    "days_coverage": 55.2015131675,
+    "qty_on_hand": 542,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1054
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "INS",
+    "days_coverage": 163.8703815869,
+    "qty_on_hand": 773,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2018
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "METF",
+    "days_coverage": 115.6408206768,
+    "qty_on_hand": 620,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0026
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "MGSO4",
+    "days_coverage": 70.7979012122,
+    "qty_on_hand": 559,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2042
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "MISO",
+    "days_coverage": 238.56,
+    "qty_on_hand": 852,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1013
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "OXY",
+    "days_coverage": 113.0509641873,
+    "qty_on_hand": 469,
+    "p_rupture_14j": 0.144,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1603
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "PARA",
+    "days_coverage": 365.0,
+    "qty_on_hand": 3343,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0008
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "PENTA",
+    "days_coverage": 123.6328971315,
+    "qty_on_hand": 2038,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1024
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "RINGER",
+    "days_coverage": 66.0451977401,
+    "qty_on_hand": 501,
+    "p_rupture_14j": 0.305,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1265
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "ROUG",
+    "days_coverage": 140.1186440678,
+    "qty_on_hand": 1181,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1021
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "SP",
+    "days_coverage": 102.2690028993,
+    "qty_on_hand": 1159,
+    "p_rupture_14j": 0.093,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0401
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "SRO",
+    "days_coverage": 151.5867291742,
+    "qty_on_hand": 1201,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.002
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "TDR",
+    "days_coverage": 92.2591423798,
+    "qty_on_hand": 710,
+    "p_rupture_14j": 0.354,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1449
+  },
+  {
+    "facility_id": "fac-chud-parakou",
+    "product_id": "ZINC",
+    "days_coverage": 365.0,
+    "qty_on_hand": 776,
+    "p_rupture_14j": 0.005,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0028
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "ACT",
+    "days_coverage": 365.0,
+    "qty_on_hand": 1797,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1008
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "AMLO",
+    "days_coverage": 89.0285714286,
+    "qty_on_hand": 779,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0034
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "AMOX",
+    "days_coverage": 365.0,
+    "qty_on_hand": 2050,
+    "p_rupture_14j": 0.001,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1012
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "ARTINJ",
+    "days_coverage": 91.1727616646,
+    "qty_on_hand": 723,
+    "p_rupture_14j": 0.025,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2133
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "ARV",
+    "days_coverage": 66.14017769,
+    "qty_on_hand": 670,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2045
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "BCG",
+    "days_coverage": 115.9409020218,
+    "qty_on_hand": 852,
+    "p_rupture_14j": 0.005,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1046
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "CEFT",
+    "days_coverage": 334.9041533546,
+    "qty_on_hand": 599,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1009
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "INS",
+    "days_coverage": 256.8533333333,
+    "qty_on_hand": 688,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2012
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "METF",
+    "days_coverage": 255.2985476062,
+    "qty_on_hand": 678,
+    "p_rupture_14j": 0.002,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.002
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "MGSO4",
+    "days_coverage": 118.6284207056,
+    "qty_on_hand": 514,
+    "p_rupture_14j": 0.011,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2069
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "MISO",
+    "days_coverage": 152.557813595,
+    "qty_on_hand": 933,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.102
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "OXY",
+    "days_coverage": 192.1388797904,
+    "qty_on_hand": 838,
+    "p_rupture_14j": 0.01,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1056
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "PARA",
+    "days_coverage": 285.2336448598,
+    "qty_on_hand": 2834,
+    "p_rupture_14j": 0.001,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0015
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "PENTA",
+    "days_coverage": 242.6810477658,
+    "qty_on_hand": 675,
+    "p_rupture_14j": 0.165,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1672
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "RINGER",
+    "days_coverage": 207.0780399274,
+    "qty_on_hand": 489,
+    "p_rupture_14j": 0.235,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0954
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "ROUG",
+    "days_coverage": 326.600284495,
+    "qty_on_hand": 656,
+    "p_rupture_14j": 0.014,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1065
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "SP",
+    "days_coverage": 176.050955414,
+    "qty_on_hand": 1382,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0017
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "SRO",
+    "days_coverage": 92.5196850394,
+    "qty_on_hand": 470,
+    "p_rupture_14j": 0.269,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1108
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "TDR",
+    "days_coverage": 273.2887065429,
+    "qty_on_hand": 1808,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0011
+  },
+  {
+    "facility_id": "fac-chud-portonovo",
+    "product_id": "ZINC",
+    "days_coverage": 79.7967524577,
+    "qty_on_hand": 1032,
+    "p_rupture_14j": 0.016,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0102
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "ACT",
+    "days_coverage": 310.4846288092,
+    "qty_on_hand": 3304,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.101
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "AMLO",
+    "days_coverage": 140.6304121926,
+    "qty_on_hand": 580,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0021
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "AMOX",
+    "days_coverage": 365.0,
+    "qty_on_hand": 2123,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1008
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "ARTINJ",
+    "days_coverage": 71.3760202322,
+    "qty_on_hand": 887,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2042
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "ARV",
+    "days_coverage": 66.1426639621,
+    "qty_on_hand": 559,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2045
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "BCG",
+    "days_coverage": 33.0139242402,
+    "qty_on_hand": 315,
+    "p_rupture_14j": 0.225,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1991
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "CEFT",
+    "days_coverage": 114.3297380586,
+    "qty_on_hand": 318,
+    "p_rupture_14j": 0.066,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.129
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "INS",
+    "days_coverage": 91.2065850231,
+    "qty_on_hand": 649,
+    "p_rupture_14j": 0.015,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2093
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "METF",
+    "days_coverage": 196.4516129032,
+    "qty_on_hand": 348,
+    "p_rupture_14j": 0.094,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0391
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "MGSO4",
+    "days_coverage": 88.8671875,
+    "qty_on_hand": 260,
+    "p_rupture_14j": 0.149,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.263
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "MISO",
+    "days_coverage": 70.3703703704,
+    "qty_on_hand": 190,
+    "p_rupture_14j": 0.575,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.3343
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "OXY",
+    "days_coverage": 126.7331670823,
+    "qty_on_hand": 726,
+    "p_rupture_14j": 0.003,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1036
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "PARA",
+    "days_coverage": 194.6421008047,
+    "qty_on_hand": 1313,
+    "p_rupture_14j": 0.161,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0659
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "PENTA",
+    "days_coverage": 365.0,
+    "qty_on_hand": 1597,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1008
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "RINGER",
+    "days_coverage": 93.8006676204,
+    "qty_on_hand": 281,
+    "p_rupture_14j": 0.73,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2952
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "ROUG",
+    "days_coverage": 363.7000412031,
+    "qty_on_hand": 1261,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1008
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "SP",
+    "days_coverage": 365.0,
+    "qty_on_hand": 1669,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0008
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "SRO",
+    "days_coverage": 365.0,
+    "qty_on_hand": 1274,
+    "p_rupture_14j": 0.002,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0016
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "TDR",
+    "days_coverage": 160.1943597561,
+    "qty_on_hand": 1201,
+    "p_rupture_14j": 0.014,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0075
+  },
+  {
+    "facility_id": "fac-cnhu-cotonou",
+    "product_id": "ZINC",
+    "days_coverage": 185.809371672,
+    "qty_on_hand": 997,
+    "p_rupture_14j": 0.008,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0048
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "ACT",
+    "days_coverage": 44.0922768305,
+    "qty_on_hand": 314,
+    "p_rupture_14j": 0.243,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.204
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "AMLO",
+    "days_coverage": 28.9514329844,
+    "qty_on_hand": 241,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0104
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "AMOX",
+    "days_coverage": 60.1481481481,
+    "qty_on_hand": 522,
+    "p_rupture_14j": 0.006,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1074
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "ARTINJ",
+    "days_coverage": 145.4022988506,
+    "qty_on_hand": 253,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2021
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "ARV",
+    "days_coverage": 12.5667151868,
+    "qty_on_hand": 37,
+    "p_rupture_14j": 0.352,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.3647
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "CEFT",
+    "days_coverage": 82.0912767187,
+    "qty_on_hand": 203,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1037
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "METF",
+    "days_coverage": 17.6943066383,
+    "qty_on_hand": 107,
+    "p_rupture_14j": 0.166,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0834
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "MGSO4",
+    "days_coverage": 10.7389414472,
+    "qty_on_hand": 60,
+    "p_rupture_14j": 0.175,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2979
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "MISO",
+    "days_coverage": 1.4828937613,
+    "qty_on_hand": 20,
+    "p_rupture_14j": 0.912,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.6671
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "PARA",
+    "days_coverage": 53.1916702082,
+    "qty_on_hand": 894,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0056
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "RINGER",
+    "days_coverage": 129.1291291291,
+    "qty_on_hand": 430,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0023
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "SP",
+    "days_coverage": 113.3620689655,
+    "qty_on_hand": 526,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0026
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "SRO",
+    "days_coverage": 104.8780487805,
+    "qty_on_hand": 430,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0029
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "TDR",
+    "days_coverage": 51.2982576016,
+    "qty_on_hand": 429,
+    "p_rupture_14j": 0.014,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0114
+  },
+  {
+    "facility_id": "fac-cs-abomey",
+    "product_id": "ZINC",
+    "days_coverage": 37.1024734982,
+    "qty_on_hand": 360,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0081
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "ACT",
+    "days_coverage": 67.8747940692,
+    "qty_on_hand": 412,
+    "p_rupture_14j": 0.124,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.154
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "AMLO",
+    "days_coverage": 18.594355285,
+    "qty_on_hand": 240,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0161
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "AMOX",
+    "days_coverage": 8.6852779766,
+    "qty_on_hand": 104,
+    "p_rupture_14j": 0.829,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.4661
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "ARTINJ",
+    "days_coverage": 89.0291262136,
+    "qty_on_hand": 262,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2034
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "ARV",
+    "days_coverage": 17.5834658188,
+    "qty_on_hand": 79,
+    "p_rupture_14j": 0.049,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2367
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "BCG",
+    "days_coverage": 69.1873963516,
+    "qty_on_hand": 298,
+    "p_rupture_14j": 0.017,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1111
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "CEFT",
+    "days_coverage": 24.575617284,
+    "qty_on_hand": 91,
+    "p_rupture_14j": 0.096,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1506
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "INS",
+    "days_coverage": 10.9977723062,
+    "qty_on_hand": 134,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2273
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "METF",
+    "days_coverage": 21.0909807011,
+    "qty_on_hand": 153,
+    "p_rupture_14j": 0.095,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0522
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "MGSO4",
+    "days_coverage": 14.4241119483,
+    "qty_on_hand": 134,
+    "p_rupture_14j": 0.011,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2252
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "MISO",
+    "days_coverage": 7.7264287188,
+    "qty_on_hand": 107,
+    "p_rupture_14j": 0.207,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2216
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "OXY",
+    "days_coverage": 26.2261580381,
+    "qty_on_hand": 330,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1114
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "PARA",
+    "days_coverage": 92.0631622689,
+    "qty_on_hand": 633,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0033
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "PENTA",
+    "days_coverage": 102.0278833967,
+    "qty_on_hand": 575,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1029
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "RINGER",
+    "days_coverage": 52.7632246071,
+    "qty_on_hand": 446,
+    "p_rupture_14j": 0.069,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0333
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "ROUG",
+    "days_coverage": 41.2111017662,
+    "qty_on_hand": 210,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1073
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "SP",
+    "days_coverage": 36.9718309859,
+    "qty_on_hand": 165,
+    "p_rupture_14j": 0.23,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1001
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "SRO",
+    "days_coverage": 37.9915082149,
+    "qty_on_hand": 294,
+    "p_rupture_14j": 0.001,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0083
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "TDR",
+    "days_coverage": 49.667405765,
+    "qty_on_hand": 416,
+    "p_rupture_14j": 0.003,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0072
+  },
+  {
+    "facility_id": "fac-cs-agla",
+    "product_id": "ZINC",
+    "days_coverage": 32.6215895611,
+    "qty_on_hand": 275,
+    "p_rupture_14j": 0.003,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0104
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "ACT",
+    "days_coverage": 64.0234948605,
+    "qty_on_hand": 872,
+    "p_rupture_14j": 0.002,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1055
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "AMLO",
+    "days_coverage": 39.2943063352,
+    "qty_on_hand": 280,
+    "p_rupture_14j": 0.001,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.008
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "AMOX",
+    "days_coverage": 211.2910481332,
+    "qty_on_hand": 671,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1014
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "ARTINJ",
+    "days_coverage": 17.5449871465,
+    "qty_on_hand": 78,
+    "p_rupture_14j": 0.438,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.3923
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "ARV",
+    "days_coverage": 29.5670538543,
+    "qty_on_hand": 80,
+    "p_rupture_14j": 0.026,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2205
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "BCG",
+    "days_coverage": 65.8760520275,
+    "qty_on_hand": 123,
+    "p_rupture_14j": 0.448,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2838
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "CEFT",
+    "days_coverage": 18.2643989177,
+    "qty_on_hand": 135,
+    "p_rupture_14j": 0.014,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.122
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "INS",
+    "days_coverage": 17.1550346297,
+    "qty_on_hand": 92,
+    "p_rupture_14j": 0.025,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2275
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "METF",
+    "days_coverage": 17.6310415248,
+    "qty_on_hand": 111,
+    "p_rupture_14j": 0.157,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0798
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "MGSO4",
+    "days_coverage": 8.7320082248,
+    "qty_on_hand": 91,
+    "p_rupture_14j": 0.061,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2588
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "MISO",
+    "days_coverage": 53.9767216295,
+    "qty_on_hand": 159,
+    "p_rupture_14j": 0.013,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1108
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "OXY",
+    "days_coverage": 101.9920318725,
+    "qty_on_hand": 256,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1029
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "PARA",
+    "days_coverage": 164.9270913277,
+    "qty_on_hand": 307,
+    "p_rupture_14j": 0.207,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0846
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "PENTA",
+    "days_coverage": 23.8496663154,
+    "qty_on_hand": 194,
+    "p_rupture_14j": 0.051,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.133
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "RINGER",
+    "days_coverage": 117.070103741,
+    "qty_on_hand": 532,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0026
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "ROUG",
+    "days_coverage": 26.1389850058,
+    "qty_on_hand": 259,
+    "p_rupture_14j": 0.034,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1251
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "SP",
+    "days_coverage": 29.3963254593,
+    "qty_on_hand": 448,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0102
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "SRO",
+    "days_coverage": 49.6143958869,
+    "qty_on_hand": 386,
+    "p_rupture_14j": 0.009,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0096
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "TDR",
+    "days_coverage": 330.8984047019,
+    "qty_on_hand": 563,
+    "p_rupture_14j": 0.005,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0029
+  },
+  {
+    "facility_id": "fac-cs-akpakpa",
+    "product_id": "ZINC",
+    "days_coverage": 110.8493150685,
+    "qty_on_hand": 289,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0027
+  },
+  {
+    "facility_id": "fac-cs-aplahoue",
+    "product_id": "ACT",
+    "days_coverage": 170.3557312253,
+    "qty_on_hand": 431,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1018
+  },
+  {
+    "facility_id": "fac-cs-aplahoue",
+    "product_id": "AMLO",
+    "days_coverage": 13.4882402947,
+    "qty_on_hand": 68,
+    "p_rupture_14j": 0.195,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1002
+  },
+  {
+    "facility_id": "fac-cs-aplahoue",
+    "product_id": "AMOX",
+    "days_coverage": 79.2384872652,
+    "qty_on_hand": 440,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1038
+  },
+  {
+    "facility_id": "fac-cs-aplahoue",
+    "product_id": "ARTINJ",
+    "days_coverage": 10.9299097849,
+    "qty_on_hand": 45,
+    "p_rupture_14j": 0.451,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.4078
+  },
+  {
+    "facility_id": "fac-cs-aplahoue",
+    "product_id": "ARV",
+    "days_coverage": 7.0896633899,
+    "qty_on_hand": 34,
+    "p_rupture_14j": 0.293,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.3595
+  },
+  {
+    "facility_id": "fac-cs-aplahoue",
+    "product_id": "CEFT",
+    "days_coverage": 11.4965464313,
+    "qty_on_hand": 107,
+    "p_rupture_14j": 0.015,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1321
+  },
+  {
+    "facility_id": "fac-cs-aplahoue",
+    "product_id": "METF",
+    "days_coverage": 32.8716216216,
+    "qty_on_hand": 139,
+    "p_rupture_14j": 0.019,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0167
+  },
+  {
+    "facility_id": "fac-cs-aplahoue",
+    "product_id": "MGSO4",
+    "days_coverage": 9.3266114512,
+    "qty_on_hand": 37,
+    "p_rupture_14j": 0.288,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.3474
+  },
+  {
+    "facility_id": "fac-cs-aplahoue",
+    "product_id": "MISO",
+    "days_coverage": 13.0148092098,
+    "qty_on_hand": 172,
+    "p_rupture_14j": 0.08,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1551
+  },
+  {
+    "facility_id": "fac-cs-aplahoue",
+    "product_id": "PARA",
+    "days_coverage": 60.3540159878,
+    "qty_on_hand": 453,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.005
+  },
+  {
+    "facility_id": "fac-cs-aplahoue",
+    "product_id": "RINGER",
+    "days_coverage": 15.6448386816,
+    "qty_on_hand": 257,
+    "p_rupture_14j": 0.002,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.02
+  },
+  {
+    "facility_id": "fac-cs-aplahoue",
+    "product_id": "SP",
+    "days_coverage": 16.3345898402,
+    "qty_on_hand": 130,
+    "p_rupture_14j": 0.175,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0884
+  },
+  {
+    "facility_id": "fac-cs-aplahoue",
+    "product_id": "SRO",
+    "days_coverage": 21.2753277712,
+    "qty_on_hand": 153,
+    "p_rupture_14j": 0.168,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0813
+  },
+  {
+    "facility_id": "fac-cs-aplahoue",
+    "product_id": "TDR",
+    "days_coverage": 139.1673746814,
+    "qty_on_hand": 234,
+    "p_rupture_14j": 0.011,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0066
+  },
+  {
+    "facility_id": "fac-cs-aplahoue",
+    "product_id": "ZINC",
+    "days_coverage": 85.8918918919,
+    "qty_on_hand": 227,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0035
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "ACT",
+    "days_coverage": 122.3938223938,
+    "qty_on_hand": 317,
+    "p_rupture_14j": 0.103,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2437
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "AMLO",
+    "days_coverage": 29.448426301,
+    "qty_on_hand": 135,
+    "p_rupture_14j": 0.01,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1142
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "AMOX",
+    "days_coverage": 98.5394655065,
+    "qty_on_hand": 453,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.203
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "ARTINJ",
+    "days_coverage": 13.7861736334,
+    "qty_on_hand": 49,
+    "p_rupture_14j": 0.19,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.3978
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "ARV",
+    "days_coverage": 8.3697871099,
+    "qty_on_hand": 41,
+    "p_rupture_14j": 0.263,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.441
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "CEFT",
+    "days_coverage": 24.3497336258,
+    "qty_on_hand": 111,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2123
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "METF",
+    "days_coverage": 9.4838709677,
+    "qty_on_hand": 63,
+    "p_rupture_14j": 0.114,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1772
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "MGSO4",
+    "days_coverage": 11.7303195635,
+    "qty_on_hand": 43,
+    "p_rupture_14j": 0.082,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.3584
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "MISO",
+    "days_coverage": 25.6205300799,
+    "qty_on_hand": 87,
+    "p_rupture_14j": 0.005,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2137
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "PARA",
+    "days_coverage": 31.4285714286,
+    "qty_on_hand": 165,
+    "p_rupture_14j": 0.236,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2039
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "RINGER",
+    "days_coverage": 15.6023350433,
+    "qty_on_hand": 126,
+    "p_rupture_14j": 0.089,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1548
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "SP",
+    "days_coverage": 40.8005617978,
+    "qty_on_hand": 249,
+    "p_rupture_14j": 0.004,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.109
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "SRO",
+    "days_coverage": 30.3333333333,
+    "qty_on_hand": 260,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1099
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "TDR",
+    "days_coverage": 46.897888841,
+    "qty_on_hand": 311,
+    "p_rupture_14j": 0.001,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1068
+  },
+  {
+    "facility_id": "fac-cs-banikoara",
+    "product_id": "ZINC",
+    "days_coverage": 7.7859391396,
+    "qty_on_hand": 53,
+    "p_rupture_14j": 0.648,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.3977
+  },
+  {
+    "facility_id": "fac-cs-bassila",
+    "product_id": "ACT",
+    "days_coverage": 238.2433668801,
+    "qty_on_hand": 372,
+    "p_rupture_14j": 0.055,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2233
+  },
+  {
+    "facility_id": "fac-cs-bassila",
+    "product_id": "AMLO",
+    "days_coverage": 60.4847207587,
+    "qty_on_hand": 164,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.105
+  },
+  {
+    "facility_id": "fac-cs-bassila",
+    "product_id": "AMOX",
+    "days_coverage": 62.4722838137,
+    "qty_on_hand": 161,
+    "p_rupture_14j": 0.27,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.3128
+  },
+  {
+    "facility_id": "fac-cs-bassila",
+    "product_id": "ARTINJ",
+    "days_coverage": 24.4186046512,
+    "qty_on_hand": 129,
+    "p_rupture_14j": 0.003,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.3135
+  },
+  {
+    "facility_id": "fac-cs-bassila",
+    "product_id": "ARV",
+    "days_coverage": 21.3476619227,
+    "qty_on_hand": 105,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.3141
+  },
+  {
+    "facility_id": "fac-cs-bassila",
+    "product_id": "CEFT",
+    "days_coverage": 16.7023554604,
+    "qty_on_hand": 78,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.218
+  },
+  {
+    "facility_id": "fac-cs-bassila",
+    "product_id": "METF",
+    "days_coverage": 16.440831075,
+    "qty_on_hand": 78,
+    "p_rupture_14j": 0.162,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.183
+  },
+  {
+    "facility_id": "fac-cs-bassila",
+    "product_id": "MGSO4",
+    "days_coverage": 11.9505993462,
+    "qty_on_hand": 47,
+    "p_rupture_14j": 0.231,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.4175
+  },
+  {
+    "facility_id": "fac-cs-bassila",
+    "product_id": "MISO",
+    "days_coverage": 20.4638472033,
+    "qty_on_hand": 150,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2147
+  },
+  {
+    "facility_id": "fac-cs-bassila",
+    "product_id": "PARA",
+    "days_coverage": 142.3835125448,
+    "qty_on_hand": 454,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1021
+  },
+  {
+    "facility_id": "fac-cs-bassila",
+    "product_id": "RINGER",
+    "days_coverage": 39.7696737044,
+    "qty_on_hand": 148,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1075
+  },
+  {
+    "facility_id": "fac-cs-bassila",
+    "product_id": "SP",
+    "days_coverage": 44.8042168675,
+    "qty_on_hand": 255,
+    "p_rupture_14j": 0.009,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1103
+  },
+  {
+    "facility_id": "fac-cs-bassila",
+    "product_id": "SRO",
+    "days_coverage": 23.2324640915,
+    "qty_on_hand": 238,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1129
+  },
+  {
+    "facility_id": "fac-cs-bassila",
+    "product_id": "TDR",
+    "days_coverage": 53.7190082645,
+    "qty_on_hand": 390,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1056
+  },
+  {
+    "facility_id": "fac-cs-bassila",
+    "product_id": "ZINC",
+    "days_coverage": 10.4177236597,
+    "qty_on_hand": 88,
+    "p_rupture_14j": 0.361,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2732
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "ACT",
+    "days_coverage": 92.2677165354,
+    "qty_on_hand": 837,
+    "p_rupture_14j": 0.04,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1193
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "AMLO",
+    "days_coverage": 84.6829268293,
+    "qty_on_hand": 248,
+    "p_rupture_14j": 0.066,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0299
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "AMOX",
+    "days_coverage": 61.2561750176,
+    "qty_on_hand": 248,
+    "p_rupture_14j": 0.095,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1429
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "ARTINJ",
+    "days_coverage": 101.593625498,
+    "qty_on_hand": 255,
+    "p_rupture_14j": 0.008,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2062
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "ARV",
+    "days_coverage": 64.5217391304,
+    "qty_on_hand": 159,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2046
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "CEFT",
+    "days_coverage": 32.4019192774,
+    "qty_on_hand": 164,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1093
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "METF",
+    "days_coverage": 17.4339622642,
+    "qty_on_hand": 99,
+    "p_rupture_14j": 0.139,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0728
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "MGSO4",
+    "days_coverage": 24.5311612048,
+    "qty_on_hand": 185,
+    "p_rupture_14j": 0.001,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2126
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "MISO",
+    "days_coverage": 34.3149356375,
+    "qty_on_hand": 278,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1087
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "PARA",
+    "days_coverage": 226.127085552,
+    "qty_on_hand": 910,
+    "p_rupture_14j": 0.002,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0021
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "RINGER",
+    "days_coverage": 264.332460733,
+    "qty_on_hand": 577,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0011
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "SP",
+    "days_coverage": 134.9706744868,
+    "qty_on_hand": 263,
+    "p_rupture_14j": 0.149,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0618
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "SRO",
+    "days_coverage": 27.0867309118,
+    "qty_on_hand": 261,
+    "p_rupture_14j": 0.162,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0759
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "TDR",
+    "days_coverage": 38.7398893146,
+    "qty_on_hand": 260,
+    "p_rupture_14j": 0.089,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0433
+  },
+  {
+    "facility_id": "fac-cs-bembereke",
+    "product_id": "ZINC",
+    "days_coverage": 17.6009892828,
+    "qty_on_hand": 122,
+    "p_rupture_14j": 0.349,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1566
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "ACT",
+    "days_coverage": 32.3385460189,
+    "qty_on_hand": 387,
+    "p_rupture_14j": 0.139,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2649
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "AMLO",
+    "days_coverage": 25.1519485163,
+    "qty_on_hand": 201,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1119
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "AMOX",
+    "days_coverage": 225.2506836828,
+    "qty_on_hand": 353,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2013
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "ARTINJ",
+    "days_coverage": 28.5560923242,
+    "qty_on_hand": 76,
+    "p_rupture_14j": 0.11,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.3545
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "ARV",
+    "days_coverage": 45.2941176471,
+    "qty_on_hand": 110,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.3066
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "CEFT",
+    "days_coverage": 6.6596194503,
+    "qty_on_hand": 36,
+    "p_rupture_14j": 0.334,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.3786
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "METF",
+    "days_coverage": 26.6072266542,
+    "qty_on_hand": 162,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1113
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "MGSO4",
+    "days_coverage": 16.3390663391,
+    "qty_on_hand": 95,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.3184
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "MISO",
+    "days_coverage": 28.5271687321,
+    "qty_on_hand": 171,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2105
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "PARA",
+    "days_coverage": 131.8134354333,
+    "qty_on_hand": 541,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1023
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "RINGER",
+    "days_coverage": 51.1675126904,
+    "qty_on_hand": 216,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1059
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "SP",
+    "days_coverage": 61.8062563068,
+    "qty_on_hand": 175,
+    "p_rupture_14j": 0.036,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1193
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "SRO",
+    "days_coverage": 13.8262668046,
+    "qty_on_hand": 191,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1217
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "TDR",
+    "days_coverage": 38.6171386539,
+    "qty_on_hand": 300,
+    "p_rupture_14j": 0.015,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1138
+  },
+  {
+    "facility_id": "fac-cs-boukoumbe",
+    "product_id": "ZINC",
+    "days_coverage": 25.5416191562,
+    "qty_on_hand": 192,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1117
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "ACT",
+    "days_coverage": 127.6060764798,
+    "qty_on_hand": 348,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1024
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "AMLO",
+    "days_coverage": 36.144964721,
+    "qty_on_hand": 161,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0083
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "AMOX",
+    "days_coverage": 158.9238845144,
+    "qty_on_hand": 346,
+    "p_rupture_14j": 0.003,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1031
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "ARTINJ",
+    "days_coverage": 21.316872428,
+    "qty_on_hand": 37,
+    "p_rupture_14j": 0.692,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.4909
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "ARV",
+    "days_coverage": 1.7811704835,
+    "qty_on_hand": 19,
+    "p_rupture_14j": 0.435,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.5424
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "CEFT",
+    "days_coverage": 18.6311787072,
+    "qty_on_hand": 133,
+    "p_rupture_14j": 0.026,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1265
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "METF",
+    "days_coverage": 19.0709046455,
+    "qty_on_hand": 78,
+    "p_rupture_14j": 0.186,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0901
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "MGSO4",
+    "days_coverage": 12.2807017544,
+    "qty_on_hand": 102,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2244
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "MISO",
+    "days_coverage": 15.4662840746,
+    "qty_on_hand": 154,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1194
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "PARA",
+    "days_coverage": 203.2051282051,
+    "qty_on_hand": 317,
+    "p_rupture_14j": 0.026,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0119
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "RINGER",
+    "days_coverage": 107.4437391806,
+    "qty_on_hand": 266,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0028
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "SP",
+    "days_coverage": 83.9829476248,
+    "qty_on_hand": 197,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0036
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "SRO",
+    "days_coverage": 41.7973462002,
+    "qty_on_hand": 198,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0072
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "TDR",
+    "days_coverage": 25.512214342,
+    "qty_on_hand": 185,
+    "p_rupture_14j": 0.128,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.063
+  },
+  {
+    "facility_id": "fac-cs-come",
+    "product_id": "ZINC",
+    "days_coverage": 13.4871550904,
+    "qty_on_hand": 162,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0222
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "ACT",
+    "days_coverage": 3.2880271837,
+    "qty_on_hand": 141,
+    "p_rupture_14j": 0.58,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.5232
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "AMLO",
+    "days_coverage": 17.9771718453,
+    "qty_on_hand": 162,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1167
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "AMOX",
+    "days_coverage": 25.6435643564,
+    "qty_on_hand": 185,
+    "p_rupture_14j": 0.089,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2473
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "ARTINJ",
+    "days_coverage": 11.8703241895,
+    "qty_on_hand": 34,
+    "p_rupture_14j": 0.871,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.6737
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "ARV",
+    "days_coverage": 16.9019316493,
+    "qty_on_hand": 65,
+    "p_rupture_14j": 0.002,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.3185
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "CEFT",
+    "days_coverage": 13.2594132594,
+    "qty_on_hand": 82,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2226
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "METF",
+    "days_coverage": 14.9210903874,
+    "qty_on_hand": 104,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1201
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "MGSO4",
+    "days_coverage": 6.0932642487,
+    "qty_on_hand": 42,
+    "p_rupture_14j": 0.203,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.4304
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "MISO",
+    "days_coverage": 10.3510082151,
+    "qty_on_hand": 99,
+    "p_rupture_14j": 0.01,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.233
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "PARA",
+    "days_coverage": 7.860880942,
+    "qty_on_hand": 515,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1382
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "RINGER",
+    "days_coverage": 10.4054681797,
+    "qty_on_hand": 224,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1288
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "SP",
+    "days_coverage": 43.963963964,
+    "qty_on_hand": 244,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1068
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "SRO",
+    "days_coverage": 52.0729684909,
+    "qty_on_hand": 314,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1058
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "TDR",
+    "days_coverage": 43.4792573917,
+    "qty_on_hand": 271,
+    "p_rupture_14j": 0.011,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1113
+  },
+  {
+    "facility_id": "fac-cs-copargo",
+    "product_id": "ZINC",
+    "days_coverage": 13.8247222712,
+    "qty_on_hand": 112,
+    "p_rupture_14j": 0.201,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2021
+  },
+  {
+    "facility_id": "fac-cs-dassa",
+    "product_id": "ACT",
+    "days_coverage": 24.4346116028,
+    "qty_on_hand": 426,
+    "p_rupture_14j": 0.152,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1731
+  },
+  {
+    "facility_id": "fac-cs-dassa",
+    "product_id": "AMLO",
+    "days_coverage": 9.9568373553,
+    "qty_on_hand": 145,
+    "p_rupture_14j": 0.018,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0373
+  },
+  {
+    "facility_id": "fac-cs-dassa",
+    "product_id": "AMOX",
+    "days_coverage": 24.4914996964,
+    "qty_on_hand": 461,
+    "p_rupture_14j": 0.003,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1134
+  },
+  {
+    "facility_id": "fac-cs-dassa",
+    "product_id": "ARTINJ",
+    "days_coverage": 7.0470919414,
+    "qty_on_hand": 211,
+    "p_rupture_14j": 0.006,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.245
+  },
+  {
+    "facility_id": "fac-cs-dassa",
+    "product_id": "ARV",
+    "days_coverage": 1.1440160674,
+    "qty_on_hand": 83,
+    "p_rupture_14j": 0.025,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.4722
+  },
+  {
+    "facility_id": "fac-cs-dassa",
+    "product_id": "CEFT",
+    "days_coverage": 5.8381984987,
+    "qty_on_hand": 200,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1514
+  },
+  {
+    "facility_id": "fac-cs-dassa",
+    "product_id": "METF",
+    "days_coverage": 29.4298921418,
+    "qty_on_hand": 191,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0102
+  },
+  {
+    "facility_id": "fac-cs-dassa",
+    "product_id": "MGSO4",
+    "days_coverage": 14.3365983972,
+    "qty_on_hand": 161,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2209
+  },
+  {
+    "facility_id": "fac-cs-dassa",
+    "product_id": "MISO",
+    "days_coverage": 9.403185569,
+    "qty_on_hand": 140,
+    "p_rupture_14j": 0.008,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1351
+  },
+  {
+    "facility_id": "fac-cs-dassa",
+    "product_id": "PARA",
+    "days_coverage": 33.2770079982,
+    "qty_on_hand": 422,
+    "p_rupture_14j": 0.037,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0238
+  },
+  {
+    "facility_id": "fac-cs-dassa",
+    "product_id": "RINGER",
+    "days_coverage": 9.4991140499,
+    "qty_on_hand": 314,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0316
+  },
+  {
+    "facility_id": "fac-cs-dassa",
+    "product_id": "SP",
+    "days_coverage": 20.0253164557,
+    "qty_on_hand": 452,
+    "p_rupture_14j": 0.003,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0162
+  },
+  {
+    "facility_id": "fac-cs-dassa",
+    "product_id": "SRO",
+    "days_coverage": 19.6372910173,
+    "qty_on_hand": 495,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0153
+  },
+  {
+    "facility_id": "fac-cs-dassa",
+    "product_id": "TDR",
+    "days_coverage": 13.4680816591,
+    "qty_on_hand": 475,
+    "p_rupture_14j": 0.14,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0783
+  },
+  {
+    "facility_id": "fac-cs-dassa",
+    "product_id": "ZINC",
+    "days_coverage": 11.953002611,
+    "qty_on_hand": 327,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0251
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "ACT",
+    "days_coverage": 38.7717908082,
+    "qty_on_hand": 699,
+    "p_rupture_14j": 0.019,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1153
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "AMLO",
+    "days_coverage": 41.3357400722,
+    "qty_on_hand": 229,
+    "p_rupture_14j": 0.004,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0089
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "AMOX",
+    "days_coverage": 24.7787610619,
+    "qty_on_hand": 172,
+    "p_rupture_14j": 0.363,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2573
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "ARTINJ",
+    "days_coverage": 10.2088167053,
+    "qty_on_hand": 88,
+    "p_rupture_14j": 0.27,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.3374
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "ARV",
+    "days_coverage": 9.9903567985,
+    "qty_on_hand": 74,
+    "p_rupture_14j": 0.09,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.266
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "BCG",
+    "days_coverage": 4.1404053137,
+    "qty_on_hand": 122,
+    "p_rupture_14j": 0.136,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2269
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "CEFT",
+    "days_coverage": 4.780876494,
+    "qty_on_hand": 84,
+    "p_rupture_14j": 0.054,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1844
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "INS",
+    "days_coverage": 10.8536082474,
+    "qty_on_hand": 188,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2276
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "METF",
+    "days_coverage": 27.7447866317,
+    "qty_on_hand": 287,
+    "p_rupture_14j": 0.005,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0128
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "MGSO4",
+    "days_coverage": 15.9993125967,
+    "qty_on_hand": 133,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2188
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "MISO",
+    "days_coverage": 13.8118387189,
+    "qty_on_hand": 207,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1217
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "OXY",
+    "days_coverage": 25.2355231755,
+    "qty_on_hand": 287,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1119
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "PARA",
+    "days_coverage": 116.5558194774,
+    "qty_on_hand": 701,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0026
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "PENTA",
+    "days_coverage": 75.0571559214,
+    "qty_on_hand": 469,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.104
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "RINGER",
+    "days_coverage": 15.9626568717,
+    "qty_on_hand": 149,
+    "p_rupture_14j": 0.082,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0516
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "ROUG",
+    "days_coverage": 20.2335938156,
+    "qty_on_hand": 344,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1148
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "SP",
+    "days_coverage": 21.8777238202,
+    "qty_on_hand": 251,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0137
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "SRO",
+    "days_coverage": 11.3611213574,
+    "qty_on_hand": 264,
+    "p_rupture_14j": 0.076,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0568
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "TDR",
+    "days_coverage": 10.0937274694,
+    "qty_on_hand": 220,
+    "p_rupture_14j": 0.413,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1949
+  },
+  {
+    "facility_id": "fac-cs-fidjrosse",
+    "product_id": "ZINC",
+    "days_coverage": 13.4748958127,
+    "qty_on_hand": 291,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0223
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "ACT",
+    "days_coverage": 213.0973451327,
+    "qty_on_hand": 1204,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1014
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "AMLO",
+    "days_coverage": 22.6364572606,
+    "qty_on_hand": 157,
+    "p_rupture_14j": 0.279,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1249
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "AMOX",
+    "days_coverage": 129.312623926,
+    "qty_on_hand": 1118,
+    "p_rupture_14j": 0.028,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1135
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "ARTINJ",
+    "days_coverage": 32.8505957837,
+    "qty_on_hand": 256,
+    "p_rupture_14j": 0.005,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2111
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "ARV",
+    "days_coverage": 7.0324249534,
+    "qty_on_hand": 167,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2427
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "BCG",
+    "days_coverage": 18.7509995202,
+    "qty_on_hand": 335,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.116
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "CEFT",
+    "days_coverage": 11.9599707103,
+    "qty_on_hand": 140,
+    "p_rupture_14j": 0.024,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1347
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "INS",
+    "days_coverage": 12.8822733424,
+    "qty_on_hand": 204,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2233
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "METF",
+    "days_coverage": 17.0416024653,
+    "qty_on_hand": 395,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0176
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "MGSO4",
+    "days_coverage": 12.029777461,
+    "qty_on_hand": 217,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2249
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "MISO",
+    "days_coverage": 18.5586258402,
+    "qty_on_hand": 213,
+    "p_rupture_14j": 0.003,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1174
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "OXY",
+    "days_coverage": 19.6598101266,
+    "qty_on_hand": 142,
+    "p_rupture_14j": 0.242,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2121
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "PARA",
+    "days_coverage": 106.5896560777,
+    "qty_on_hand": 1160,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0028
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "PENTA",
+    "days_coverage": 66.0617059891,
+    "qty_on_hand": 520,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1045
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "RINGER",
+    "days_coverage": 5.0332242388,
+    "qty_on_hand": 145,
+    "p_rupture_14j": 0.437,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2344
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "ROUG",
+    "days_coverage": 15.570719603,
+    "qty_on_hand": 251,
+    "p_rupture_14j": 0.017,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1261
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "SP",
+    "days_coverage": 9.6459552567,
+    "qty_on_hand": 332,
+    "p_rupture_14j": 0.054,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0527
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "SRO",
+    "days_coverage": 8.7333292361,
+    "qty_on_hand": 203,
+    "p_rupture_14j": 0.303,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1556
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "TDR",
+    "days_coverage": 35.4370887606,
+    "qty_on_hand": 377,
+    "p_rupture_14j": 0.263,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1137
+  },
+  {
+    "facility_id": "fac-cs-godomey",
+    "product_id": "ZINC",
+    "days_coverage": 51.1710432931,
+    "qty_on_hand": 412,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0059
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "ACT",
+    "days_coverage": 99.6940194715,
+    "qty_on_hand": 512,
+    "p_rupture_14j": 0.001,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2034
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "AMLO",
+    "days_coverage": 53.0235518778,
+    "qty_on_hand": 119,
+    "p_rupture_14j": 0.022,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1145
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "AMOX",
+    "days_coverage": 112.6042177538,
+    "qty_on_hand": 328,
+    "p_rupture_14j": 0.001,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2031
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "ARTINJ",
+    "days_coverage": 15.9042714329,
+    "qty_on_hand": 150,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.3189
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "ARV",
+    "days_coverage": 7.8651685393,
+    "qty_on_hand": 60,
+    "p_rupture_14j": 0.022,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.3469
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "CEFT",
+    "days_coverage": 4.905938768,
+    "qty_on_hand": 57,
+    "p_rupture_14j": 0.076,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2916
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "METF",
+    "days_coverage": 36.75171737,
+    "qty_on_hand": 107,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1082
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "MGSO4",
+    "days_coverage": 37.0178926441,
+    "qty_on_hand": 133,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.3081
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "MISO",
+    "days_coverage": 39.3982300885,
+    "qty_on_hand": 159,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2076
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "PARA",
+    "days_coverage": 221.1240310078,
+    "qty_on_hand": 489,
+    "p_rupture_14j": 0.003,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1026
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "RINGER",
+    "days_coverage": 43.6755530346,
+    "qty_on_hand": 110,
+    "p_rupture_14j": 0.224,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1965
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "SP",
+    "days_coverage": 58.7248322148,
+    "qty_on_hand": 150,
+    "p_rupture_14j": 0.264,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2107
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "SRO",
+    "days_coverage": 34.7035991531,
+    "qty_on_hand": 281,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1086
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "TDR",
+    "days_coverage": 62.9856850716,
+    "qty_on_hand": 264,
+    "p_rupture_14j": 0.05,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1248
+  },
+  {
+    "facility_id": "fac-cs-karimama",
+    "product_id": "ZINC",
+    "days_coverage": 14.5448142279,
+    "qty_on_hand": 118,
+    "p_rupture_14j": 0.009,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1242
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "ACT",
+    "days_coverage": 23.7712243074,
+    "qty_on_hand": 152,
+    "p_rupture_14j": 0.44,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2886
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "AMLO",
+    "days_coverage": 12.0487433359,
+    "qty_on_hand": 113,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0249
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "AMOX",
+    "days_coverage": 55.2897736394,
+    "qty_on_hand": 492,
+    "p_rupture_14j": 0.001,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1058
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "ARTINJ",
+    "days_coverage": 87.1270247229,
+    "qty_on_hand": 146,
+    "p_rupture_14j": 0.007,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2062
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "ARV",
+    "days_coverage": 36.4705882353,
+    "qty_on_hand": 93,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2082
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "CEFT",
+    "days_coverage": 44.5515911283,
+    "qty_on_hand": 132,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1067
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "METF",
+    "days_coverage": 30.1801801802,
+    "qty_on_hand": 134,
+    "p_rupture_14j": 0.003,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0111
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "MGSO4",
+    "days_coverage": 15.8246828143,
+    "qty_on_hand": 98,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.219
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "MISO",
+    "days_coverage": 37.8378378378,
+    "qty_on_hand": 170,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1079
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "PARA",
+    "days_coverage": 148.0916030534,
+    "qty_on_hand": 388,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.002
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "RINGER",
+    "days_coverage": 92.265795207,
+    "qty_on_hand": 242,
+    "p_rupture_14j": 0.135,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0573
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "SP",
+    "days_coverage": 67.9045092838,
+    "qty_on_hand": 256,
+    "p_rupture_14j": 0.007,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0072
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "SRO",
+    "days_coverage": 132.4191279887,
+    "qty_on_hand": 269,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0023
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "TDR",
+    "days_coverage": 94.4888178914,
+    "qty_on_hand": 169,
+    "p_rupture_14j": 0.204,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0848
+  },
+  {
+    "facility_id": "fac-cs-ketou",
+    "product_id": "ZINC",
+    "days_coverage": 69.6275071633,
+    "qty_on_hand": 243,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0043
+  },
+  {
+    "facility_id": "fac-cs-kpomasse",
+    "product_id": "ACT",
+    "days_coverage": 75.3118503119,
+    "qty_on_hand": 414,
+    "p_rupture_14j": 0.005,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.106
+  },
+  {
+    "facility_id": "fac-cs-kpomasse",
+    "product_id": "AMLO",
+    "days_coverage": 37.5774260151,
+    "qty_on_hand": 156,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.008
+  },
+  {
+    "facility_id": "fac-cs-kpomasse",
+    "product_id": "AMOX",
+    "days_coverage": 50.8715473317,
+    "qty_on_hand": 271,
+    "p_rupture_14j": 0.008,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1091
+  },
+  {
+    "facility_id": "fac-cs-kpomasse",
+    "product_id": "ARTINJ",
+    "days_coverage": 25.0,
+    "qty_on_hand": 110,
+    "p_rupture_14j": 0.105,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.254
+  },
+  {
+    "facility_id": "fac-cs-kpomasse",
+    "product_id": "ARV",
+    "days_coverage": 32.9376854599,
+    "qty_on_hand": 111,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2091
+  },
+  {
+    "facility_id": "fac-cs-kpomasse",
+    "product_id": "CEFT",
+    "days_coverage": 33.6673346693,
+    "qty_on_hand": 96,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1089
+  },
+  {
+    "facility_id": "fac-cs-kpomasse",
+    "product_id": "METF",
+    "days_coverage": 31.4496314496,
+    "qty_on_hand": 128,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0095
+  },
+  {
+    "facility_id": "fac-cs-kpomasse",
+    "product_id": "MGSO4",
+    "days_coverage": 10.6642291286,
+    "qty_on_hand": 25,
+    "p_rupture_14j": 0.346,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.3665
+  },
+  {
+    "facility_id": "fac-cs-kpomasse",
+    "product_id": "MISO",
+    "days_coverage": 38.6740331492,
+    "qty_on_hand": 70,
+    "p_rupture_14j": 0.053,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.129
+  },
+  {
+    "facility_id": "fac-cs-kpomasse",
+    "product_id": "PARA",
+    "days_coverage": 108.5913043478,
+    "qty_on_hand": 446,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0028
+  },
+  {
+    "facility_id": "fac-cs-kpomasse",
+    "product_id": "RINGER",
+    "days_coverage": 33.9652956298,
+    "qty_on_hand": 151,
+    "p_rupture_14j": 0.002,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0096
+  },
+  {
+    "facility_id": "fac-cs-kpomasse",
+    "product_id": "SP",
+    "days_coverage": 43.9544392523,
+    "qty_on_hand": 215,
+    "p_rupture_14j": 0.05,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0268
+  },
+  {
+    "facility_id": "fac-cs-kpomasse",
+    "product_id": "SRO",
+    "days_coverage": 52.010178117,
+    "qty_on_hand": 292,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0058
+  },
+  {
+    "facility_id": "fac-cs-kpomasse",
+    "product_id": "TDR",
+    "days_coverage": 79.3041926851,
+    "qty_on_hand": 381,
+    "p_rupture_14j": 0.087,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0386
+  },
+  {
+    "facility_id": "fac-cs-kpomasse",
+    "product_id": "ZINC",
+    "days_coverage": 76.9034236076,
+    "qty_on_hand": 215,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0039
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "ACT",
+    "days_coverage": 129.8943661972,
+    "qty_on_hand": 527,
+    "p_rupture_14j": 0.1,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1423
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "AMLO",
+    "days_coverage": 85.1528384279,
+    "qty_on_hand": 195,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0035
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "AMOX",
+    "days_coverage": 185.7142857143,
+    "qty_on_hand": 325,
+    "p_rupture_14j": 0.051,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.122
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "ARTINJ",
+    "days_coverage": 34.4733242134,
+    "qty_on_hand": 288,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2087
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "ARV",
+    "days_coverage": 29.3300852619,
+    "qty_on_hand": 172,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2102
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "CEFT",
+    "days_coverage": 14.1446613088,
+    "qty_on_hand": 88,
+    "p_rupture_14j": 0.094,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1588
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "METF",
+    "days_coverage": 23.8355681016,
+    "qty_on_hand": 193,
+    "p_rupture_14j": 0.001,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.013
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "MGSO4",
+    "days_coverage": 18.4743311641,
+    "qty_on_hand": 146,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2162
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "MISO",
+    "days_coverage": 138.8839681134,
+    "qty_on_hand": 224,
+    "p_rupture_14j": 0.001,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1026
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "PARA",
+    "days_coverage": 255.8712121212,
+    "qty_on_hand": 579,
+    "p_rupture_14j": 0.004,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0028
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "RINGER",
+    "days_coverage": 164.8477886272,
+    "qty_on_hand": 410,
+    "p_rupture_14j": 0.079,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0334
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "SP",
+    "days_coverage": 57.2999389126,
+    "qty_on_hand": 134,
+    "p_rupture_14j": 0.499,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2048
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "SRO",
+    "days_coverage": 66.2825651303,
+    "qty_on_hand": 378,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0045
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "TDR",
+    "days_coverage": 135.7514450867,
+    "qty_on_hand": 671,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0022
+  },
+  {
+    "facility_id": "fac-cs-lokossa",
+    "product_id": "ZINC",
+    "days_coverage": 70.4010184596,
+    "qty_on_hand": 316,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0043
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "ACT",
+    "days_coverage": 9.6081470002,
+    "qty_on_hand": 62,
+    "p_rupture_14j": 0.835,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.5652
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "AMLO",
+    "days_coverage": 7.41301059,
+    "qty_on_hand": 56,
+    "p_rupture_14j": 0.144,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1981
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "AMOX",
+    "days_coverage": 69.9231613611,
+    "qty_on_hand": 273,
+    "p_rupture_14j": 0.005,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2063
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "ARTINJ",
+    "days_coverage": 2.1565003081,
+    "qty_on_hand": 5,
+    "p_rupture_14j": 0.998,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.8383
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "ARV",
+    "days_coverage": 24.8186946011,
+    "qty_on_hand": 44,
+    "p_rupture_14j": 0.01,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.3161
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "CEFT",
+    "days_coverage": 63.7120761452,
+    "qty_on_hand": 153,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2047
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "METF",
+    "days_coverage": 24.3856920684,
+    "qty_on_hand": 112,
+    "p_rupture_14j": 0.001,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1127
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "MGSO4",
+    "days_coverage": 18.6885946177,
+    "qty_on_hand": 125,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.3161
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "MISO",
+    "days_coverage": 22.4697019325,
+    "qty_on_hand": 98,
+    "p_rupture_14j": 0.037,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2282
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "PARA",
+    "days_coverage": 191.0447761194,
+    "qty_on_hand": 512,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1016
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "RINGER",
+    "days_coverage": 84.6021505376,
+    "qty_on_hand": 281,
+    "p_rupture_14j": 0.014,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1091
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "SP",
+    "days_coverage": 97.0711297071,
+    "qty_on_hand": 232,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1031
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "SRO",
+    "days_coverage": 101.8922852984,
+    "qty_on_hand": 300,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1029
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "TDR",
+    "days_coverage": 17.5092641609,
+    "qty_on_hand": 189,
+    "p_rupture_14j": 0.087,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1519
+  },
+  {
+    "facility_id": "fac-cs-materi",
+    "product_id": "ZINC",
+    "days_coverage": 53.3795493934,
+    "qty_on_hand": 308,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1056
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "ACT",
+    "days_coverage": 47.2004255885,
+    "qty_on_hand": 507,
+    "p_rupture_14j": 0.033,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1196
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "AMLO",
+    "days_coverage": 42.638357118,
+    "qty_on_hand": 175,
+    "p_rupture_14j": 0.011,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0114
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "AMOX",
+    "days_coverage": 141.1830985915,
+    "qty_on_hand": 358,
+    "p_rupture_14j": 0.031,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1145
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "ARTINJ",
+    "days_coverage": 13.8144911193,
+    "qty_on_hand": 70,
+    "p_rupture_14j": 0.521,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.4301
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "ARV",
+    "days_coverage": 25.2866972477,
+    "qty_on_hand": 63,
+    "p_rupture_14j": 0.019,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2195
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "BCG",
+    "days_coverage": 114.6587537092,
+    "qty_on_hand": 276,
+    "p_rupture_14j": 0.009,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1062
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "CEFT",
+    "days_coverage": 22.7314112291,
+    "qty_on_hand": 107,
+    "p_rupture_14j": 0.019,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1208
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "INS",
+    "days_coverage": 16.9172932331,
+    "qty_on_hand": 135,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2177
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "METF",
+    "days_coverage": 43.6457505957,
+    "qty_on_hand": 157,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0069
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "MGSO4",
+    "days_coverage": 34.5205479452,
+    "qty_on_hand": 90,
+    "p_rupture_14j": 0.084,
+    "criticality": 1.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.2423
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "MISO",
+    "days_coverage": 32.3795180723,
+    "qty_on_hand": 215,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1093
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "OXY",
+    "days_coverage": 149.4170403587,
+    "qty_on_hand": 238,
+    "p_rupture_14j": 0.076,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1324
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "PARA",
+    "days_coverage": 365.0,
+    "qty_on_hand": 1068,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0008
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "PENTA",
+    "days_coverage": 107.3113207547,
+    "qty_on_hand": 260,
+    "p_rupture_14j": 0.049,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1224
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "RINGER",
+    "days_coverage": 67.1121441023,
+    "qty_on_hand": 165,
+    "p_rupture_14j": 0.083,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0377
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "ROUG",
+    "days_coverage": 18.1268413708,
+    "qty_on_hand": 167,
+    "p_rupture_14j": 0.148,
+    "criticality": 0.5,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1758
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "SP",
+    "days_coverage": 107.1580439405,
+    "qty_on_hand": 432,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0028
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "SRO",
+    "days_coverage": 91.4783060535,
+    "qty_on_hand": 503,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0033
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "TDR",
+    "days_coverage": 36.9140625,
+    "qty_on_hand": 270,
+    "p_rupture_14j": 0.275,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.1181
+  },
+  {
+    "facility_id": "fac-cs-menontin",
+    "product_id": "ZINC",
+    "days_coverage": 21.9469946302,
+    "qty_on_hand": 181,
+    "p_rupture_14j": 0.021,
+    "criticality": 0.0,
+    "is_hard_to_reach": 0.0,
+    "priority_score": 0.0221
+  },
+  {
+    "facility_id": "fac-cs-nikki",
+    "product_id": "ACT",
+    "days_coverage": 54.8298298298,
+    "qty_on_hand": 313,
+    "p_rupture_14j": 0.026,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2159
+  },
+  {
+    "facility_id": "fac-cs-nikki",
+    "product_id": "AMLO",
+    "days_coverage": 115.2364273205,
+    "qty_on_hand": 188,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1026
+  },
+  {
+    "facility_id": "fac-cs-nikki",
+    "product_id": "AMOX",
+    "days_coverage": 142.4261874198,
+    "qty_on_hand": 317,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2021
+  },
+  {
+    "facility_id": "fac-cs-nikki",
+    "product_id": "ARTINJ",
+    "days_coverage": 51.4467592593,
+    "qty_on_hand": 127,
+    "p_rupture_14j": 0.023,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.315
+  },
+  {
+    "facility_id": "fac-cs-nikki",
+    "product_id": "ARV",
+    "days_coverage": 7.3341094296,
+    "qty_on_hand": 27,
+    "p_rupture_14j": 0.358,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.4841
+  },
+  {
+    "facility_id": "fac-cs-nikki",
+    "product_id": "CEFT",
+    "days_coverage": 7.946518668,
+    "qty_on_hand": 45,
+    "p_rupture_14j": 0.134,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2914
+  },
+  {
+    "facility_id": "fac-cs-nikki",
+    "product_id": "METF",
+    "days_coverage": 55.0127442651,
+    "qty_on_hand": 185,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1055
+  },
+  {
+    "facility_id": "fac-cs-nikki",
+    "product_id": "MGSO4",
+    "days_coverage": 18.0030257186,
+    "qty_on_hand": 85,
+    "p_rupture_14j": 0.0,
+    "criticality": 1.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.3167
+  },
+  {
+    "facility_id": "fac-cs-nikki",
+    "product_id": "MISO",
+    "days_coverage": 15.0313842088,
+    "qty_on_hand": 65,
+    "p_rupture_14j": 0.012,
+    "criticality": 0.5,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.2248
+  },
+  {
+    "facility_id": "fac-cs-nikki",
+    "product_id": "PARA",
+    "days_coverage": 165.6448598131,
+    "qty_on_hand": 633,
+    "p_rupture_14j": 0.0,
+    "criticality": 0.0,
+    "is_hard_to_reach": 1.0,
+    "priority_score": 0.1018
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "name": "PharmaOptimus — Gestion Pharmaceutique Intelligente Bénin",
+  "description": "Plateforme de prévision de la demande, détection des ruptures de stock, optimisation des transferts et planification des tournées de livraison pour le réseau pharmaceutique du Bénin.",
+  "version": "1.0.0",
+  "stack": "Next.js 14 + Supabase + LightGBM + OR-Tools + PuLP",
+  "data_status": "validated_on_simulated_data",
+  "disclaimer": "Démonstration sur données simulées. Non validé sur données réelles de dispensation.",
+  "license": "À définir par le chef de projet (voir README.md)"
+}

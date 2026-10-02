@@ -1,0 +1,508 @@
+{
+  "head" : {
+    "vars" : [ "item", "itemLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45071"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "progestatif"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79448"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Immunoglobuline G"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12187"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "antibiotique"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q190016"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "héparine"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q190878"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "charbon actif"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q185690"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "hormone corticotrope"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3618379"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "anti-hormones entraînant la libération de gonadotrophine"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3704725"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "defibrotide"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3885767"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "orgotéine"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3997863"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "ado-trastuzumab emtansine"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4065146"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "vasoprotecteur"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4067112"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "sérum antirabique"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4073320"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Atsipol"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q208360"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "lutropine alfa"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q251005"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "nystatine"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q269829"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "placebo"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q296132"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "APG101"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q340032"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "mumia"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q388565"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "rifamycine"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q408014"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "sulfate de chondroïtine"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q409255"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "inhibiteur de la rénine"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q292982"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "alpha 1-antitrypsine"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5383795"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "époétine bêta"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5419382"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Excedrin"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5572286"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Incrétinomimétique"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5572516"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "alipogène tiparvovec"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5787021"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "salive artificielle"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q415909"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "capreomycin"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q416545"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Asénapine"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q416821"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "ménotropine"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q418980"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "gramicidine"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27863114"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Testostérone (médicament)"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q419079"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "nabilone"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q419375"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "sulfure de sélénium"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q420885"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "tranylcypromine"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q506319"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "médicament générique"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574831"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "anti-anémique"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q584065"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "sérum anti-lymphocytaire"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q635415"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "ibritumomab tiuxetan"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q636678"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "tetrapharmacum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4095199"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "toxine botulique A"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4118295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "estrogènes conjugués"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4162027"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Diosmectite"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4232701"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Corvalol"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6003728"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "IMOD"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6046441"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "interféron alfa"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6073050"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "fer-saccharose"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6527835"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "léprostatique"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6755115"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Marax"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7005626"
+      },
+      "itemLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "élixir"
+      }
+    } ]
+  }
+}

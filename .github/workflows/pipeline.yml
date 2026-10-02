@@ -1,0 +1,73 @@
+name: Pipeline — calcul batch (prévisions, risques, tournées)
+
+# Déclenchement :
+#   - Manuel depuis l'onglet Actions GitHub (avec option --advance-week)
+#   - Planifié : désactivé pendant la démonstration (voir CDC §4.4)
+on:
+  workflow_dispatch:
+    inputs:
+      advance_week:
+        description: "Avancer la simulation d'une semaine (mode démonstration)"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+      dry_run:
+        description: "Dry-run : calculer sans écrire dans Supabase"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+  # Déclenchement planifié hebdomadaire — désactivé en période de démonstration
+  # schedule:
+  #   - cron: '0 4 * * 1'  # Chaque lundi à 04h00 UTC
+
+jobs:
+  run-pipeline:
+    name: ml/run_pipeline.py
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Configurer Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Installer les dépendances
+        run: pip install -r ml/requirements.txt
+
+      - name: Vérifier le fichier modèle
+        run: python ml/scripts/verify_model.py
+        env:
+          PYTHONPATH: .
+
+      - name: Exécuter le pipeline
+        run: |
+          ADVANCE=""
+          if [ "${{ github.event.inputs.advance_week }}" = "true" ]; then
+            ADVANCE="--advance-week"
+          fi
+          DRY=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            DRY="--dry-run"
+          fi
+          python ml/run_pipeline.py --env supabase $ADVANCE $DRY
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          PYTHONPATH: .
+
+      - name: Vérification post-run
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          echo "Pipeline terminé. Vérifier dans Supabase que current_run_id a été mis à jour."
+          echo "Commande : SELECT value FROM app_config WHERE key = 'current_run_id';"

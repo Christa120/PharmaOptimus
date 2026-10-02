@@ -1,0 +1,333 @@
+{
+  "generated_at": "2026-10-01T22:35:19.928452+00:00",
+  "git_hash": "a68219c6d9cfaa397ccb5c9c2383f9f38170f3e0",
+  "data_hash": "09706088c053ebea1ee637c27d7897a908377c674212d2405506f36fc3aa800d",
+  "model_version": "demand_lightgbm_v1.0.0",
+  "split": "test",
+  "global": {
+    "wape": 0.944275,
+    "wape_naive": 0.864569,
+    "mase": 1.092192,
+    "rmsse": 1.017552,
+    "bias": -0.126894,
+    "pinball_q10": 8.247765,
+    "pinball_q90": 33.781056,
+    "coverage_q10_q90": 0.59329,
+    "oracle_wape": 0.628699,
+    "efficiency": 1.50195,
+    "wape_ci_95": [
+      0.91488,
+      0.972142
+    ]
+  },
+  "by_facility_type": {
+    "health_center": {
+      "wape": 1.025257,
+      "wape_naive": 0.913219,
+      "mase": 1.122685,
+      "rmsse": 1.111254,
+      "bias": 0.191086,
+      "pinball_q10": 5.22053,
+      "pinball_q90": 17.465866,
+      "coverage_q10_q90": 0.629218,
+      "oracle_wape": 0.62039,
+      "efficiency": 1.652601,
+      "wape_ci_95": [
+        0.978569,
+        1.07138
+      ]
+    },
+    "hospital": {
+      "wape": 0.886722,
+      "wape_naive": 0.829994,
+      "mase": 1.068348,
+      "rmsse": 0.994775,
+      "bias": -0.35288,
+      "pinball_q10": 15.17854,
+      "pinball_q90": 71.134256,
+      "coverage_q10_q90": 0.511036,
+      "oracle_wape": 0.634605,
+      "efficiency": 1.397282,
+      "wape_ci_95": [
+        0.858545,
+        0.922988
+      ]
+    }
+  },
+  "by_department": {
+    "Alibori": {
+      "wape": 0.873221,
+      "wape_naive": 1.043004,
+      "mase": 0.837217,
+      "rmsse": 0.806694,
+      "bias": -0.073634,
+      "pinball_q10": 4.109911,
+      "pinball_q90": 15.006953,
+      "coverage_q10_q90": 0.612,
+      "oracle_wape": 0.57403,
+      "efficiency": 1.521212,
+      "wape_ci_95": [
+        0.796119,
+        0.962658
+      ]
+    },
+    "Atacora": {
+      "wape": 0.776783,
+      "wape_naive": 0.83842,
+      "mase": 0.926485,
+      "rmsse": 0.879026,
+      "bias": -0.23872,
+      "pinball_q10": 7.248464,
+      "pinball_q90": 24.920173,
+      "coverage_q10_q90": 0.646635,
+      "oracle_wape": 0.632597,
+      "efficiency": 1.227927,
+      "wape_ci_95": [
+        0.721428,
+        0.826028
+      ]
+    },
+    "Atlantique": {
+      "wape": 1.103171,
+      "wape_naive": 0.997562,
+      "mase": 1.105867,
+      "rmsse": 1.225795,
+      "bias": 0.437913,
+      "pinball_q10": 5.679013,
+      "pinball_q90": 17.866517,
+      "coverage_q10_q90": 0.7,
+      "oracle_wape": 0.625938,
+      "efficiency": 1.762429,
+      "wape_ci_95": [
+        0.960866,
+        1.298902
+      ]
+    },
+    "Borgou": {
+      "wape": 0.83059,
+      "wape_naive": 0.884392,
+      "mase": 0.939165,
+      "rmsse": 0.982896,
+      "bias": -0.658934,
+      "pinball_q10": 12.110406,
+      "pinball_q90": 67.452043,
+      "coverage_q10_q90": 0.497312,
+      "oracle_wape": 0.625032,
+      "efficiency": 1.328877,
+      "wape_ci_95": [
+        0.794981,
+        0.861924
+      ]
+    },
+    "Collines": {
+      "wape": 2.557077,
+      "wape_naive": 0.801802,
+      "mase": 3.189162,
+      "rmsse": 2.031367,
+      "bias": 2.375363,
+      "pinball_q10": 13.387424,
+      "pinball_q90": 31.081015,
+      "coverage_q10_q90": 0.522727,
+      "oracle_wape": 0.623302,
+      "efficiency": 4.102467,
+      "wape_ci_95": [
+        2.049834,
+        3.325785
+      ]
+    },
+    "Couffo": {
+      "wape": 1.094161,
+      "wape_naive": 0.882287,
+      "mase": 1.240143,
+      "rmsse": 1.188692,
+      "bias": 0.249402,
+      "pinball_q10": 4.375016,
+      "pinball_q90": 13.788406,
+      "coverage_q10_q90": 0.578125,
+      "oracle_wape": 0.626794,
+      "efficiency": 1.745648,
+      "wape_ci_95": [
+        0.882645,
+        1.367976
+      ]
+    },
+    "Donga": {
+      "wape": 1.132419,
+      "wape_naive": 0.845671,
+      "mase": 1.339076,
+      "rmsse": 1.238471,
+      "bias": 0.40778,
+      "pinball_q10": 4.527086,
+      "pinball_q90": 14.95011,
+      "coverage_q10_q90": 0.647059,
+      "oracle_wape": 0.657626,
+      "efficiency": 1.721979,
+      "wape_ci_95": [
+        0.967537,
+        1.284476
+      ]
+    },
+    "Littoral": {
+      "wape": 0.93651,
+      "wape_naive": 0.830436,
+      "mase": 1.127733,
+      "rmsse": 1.037946,
+      "bias": -0.128273,
+      "pinball_q10": 7.459453,
+      "pinball_q90": 32.956312,
+      "coverage_q10_q90": 0.606509,
+      "oracle_wape": 0.640927,
+      "efficiency": 1.461181,
+      "wape_ci_95": [
+        0.894967,
+        0.987388
+      ]
+    },
+    "Mono": {
+      "wape": 1.052077,
+      "wape_naive": 0.927262,
+      "mase": 1.134605,
+      "rmsse": 1.036441,
+      "bias": 0.136229,
+      "pinball_q10": 8.338177,
+      "pinball_q90": 27.388887,
+      "coverage_q10_q90": 0.575472,
+      "oracle_wape": 0.617488,
+      "efficiency": 1.703802,
+      "wape_ci_95": [
+        0.937761,
+        1.190436
+      ]
+    },
+    "Ouémé": {
+      "wape": 0.825636,
+      "wape_naive": 0.796483,
+      "mase": 1.036602,
+      "rmsse": 1.004826,
+      "bias": -0.781837,
+      "pinball_q10": 17.654349,
+      "pinball_q90": 109.632988,
+      "coverage_q10_q90": 0.301205,
+      "oracle_wape": 0.620106,
+      "efficiency": 1.331443,
+      "wape_ci_95": [
+        0.790781,
+        0.856735
+      ]
+    },
+    "Plateau": {
+      "wape": 0.819344,
+      "wape_naive": 0.912593,
+      "mase": 0.89782,
+      "rmsse": 0.765256,
+      "bias": 0.021882,
+      "pinball_q10": 3.214795,
+      "pinball_q90": 9.910197,
+      "coverage_q10_q90": 0.663934,
+      "oracle_wape": 0.600198,
+      "efficiency": 1.365123,
+      "wape_ci_95": [
+        0.714732,
+        0.934408
+      ]
+    },
+    "Zou": {
+      "wape": 0.835809,
+      "wape_naive": 0.843849,
+      "mase": 0.990473,
+      "rmsse": 0.938017,
+      "bias": 0.008744,
+      "pinball_q10": 12.854152,
+      "pinball_q90": 41.257943,
+      "coverage_q10_q90": 0.621622,
+      "oracle_wape": 0.632981,
+      "efficiency": 1.320433,
+      "wape_ci_95": [
+        0.748489,
+        0.940785
+      ]
+    }
+  },
+  "by_product_family": {
+    "antibiotiques": {
+      "wape": 1.038431,
+      "wape_naive": 0.853151,
+      "mase": 1.217172,
+      "rmsse": 1.134683,
+      "bias": -0.100907,
+      "pinball_q10": 8.285686,
+      "pinball_q90": 34.762259,
+      "coverage_q10_q90": 0.583333,
+      "oracle_wape": 0.645881,
+      "efficiency": 1.607775,
+      "wape_ci_95": [
+        0.948531,
+        1.15592
+      ]
+    },
+    "antipaludiques": {
+      "wape": 0.764263,
+      "wape_naive": 0.83175,
+      "mase": 0.918861,
+      "rmsse": 0.935709,
+      "bias": -0.409707,
+      "pinball_q10": 11.233247,
+      "pinball_q90": 48.048084,
+      "coverage_q10_q90": 0.567956,
+      "oracle_wape": 0.579794,
+      "efficiency": 1.318163,
+      "wape_ci_95": [
+        0.733449,
+        0.796448
+      ]
+    },
+    "autres": {
+      "wape": 1.02942,
+      "wape_naive": 0.90652,
+      "mase": 1.135574,
+      "rmsse": 1.051589,
+      "bias": 0.013444,
+      "pinball_q10": 7.404271,
+      "pinball_q90": 30.500244,
+      "coverage_q10_q90": 0.611212,
+      "oracle_wape": 0.639493,
+      "efficiency": 1.609746,
+      "wape_ci_95": [
+        0.985804,
+        1.07048
+      ]
+    },
+    "maternels": {
+      "wape": 1.413072,
+      "wape_naive": 0.906029,
+      "mase": 1.559632,
+      "rmsse": 1.301018,
+      "bias": 0.683035,
+      "pinball_q10": 5.62042,
+      "pinball_q90": 18.823812,
+      "coverage_q10_q90": 0.583333,
+      "oracle_wape": 0.697982,
+      "efficiency": 2.024509,
+      "wape_ci_95": [
+        1.283761,
+        1.55976
+      ]
+    },
+    "vaccins": {
+      "wape": 0.814325,
+      "wape_naive": 0.802583,
+      "mase": 1.014631,
+      "rmsse": 0.931744,
+      "bias": -0.272867,
+      "pinball_q10": 8.678452,
+      "pinball_q90": 34.903752,
+      "coverage_q10_q90": 0.60396,
+      "oracle_wape": 0.700326,
+      "efficiency": 1.16278,
+      "wape_ci_95": [
+        0.752303,
+        0.88052
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+# data/simulator/params.yaml
+# Paramètres du simulateur de données stochastiques pour le Bénin
+# Chaque paramètre est documenté avec sa source ou son hypothèse
+
+simulation:
+  seed: 42
+  start_date: "2024-01-01"
+  end_date: "2026-09-30"
+  country: "Bénin"
+  default_currency: "XOF"
+  time_step: "day"
+  aggregate_step: "week"
+
+climate_zones:
+  sud:
+    departments: ["Littoral", "Atlantique", "Ouémé", "Plateau", "Mono", "Couffo", "Zou", "Collines"]
+    rain_pattern: "bimodal" # Avril-Juillet puis Septembre-Novembre
+    malaria_rain_lag_weeks: 4
+    harmattan_months: [12, 1, 2] # Poussières Harmattan -> pic infections respiratoires
+  nord:
+    departments: ["Alibori", "Atacora", "Borgou", "Donga"]
+    rain_pattern: "unimodal" # Mai-Octobre
+    malaria_rain_lag_weeks: 5
+    harmattan_months: [11, 12, 1, 2]
+
+logistics:
+  detour_factor: 1.4 # Facteur de détour Haversine pour le Bénin (section 8.3)
+  speed_paved_kmh: 55 # Vitesse moyenne camion sur voie bitumée (RNIE)
+  speed_unpaved_kmh: 30 # Vitesse sur piste latéritique
+  rainy_season_speed_penalty: 0.70 # Ralentissement en saison des pluies sur piste
+  central_depot_lead_time_weeks: 6 # Délai moyen approvisionnement maritime Port Cotonou
+  safety_stock_days: 21 # Seuil de réapprovisionnement standard
+
+dispersion_phi:
+  vital_antimalarial: 1.8 # Sur-dispersion binomiale négative (consommation irrégulière)
+  essential_antibiotic: 1.4
+  cold_chain_vaccine: 1.2
+  infusion_ringer: 2.1

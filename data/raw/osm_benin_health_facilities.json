@@ -1,0 +1,1178 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-01T15:47:54Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 455891931,
+  "lat": 9.3645091,
+  "lon": 2.6242655,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Pharmacie Zongo II"
+  }
+},
+{
+  "type": "node",
+  "id": 457470064,
+  "lat": 9.3426708,
+  "lon": 2.6212351,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie La Grace"
+  }
+},
+{
+  "type": "node",
+  "id": 457840789,
+  "lat": 9.3763365,
+  "lon": 2.6238573,
+  "tags": {
+    "amenity": "pharmacy",
+    "created_by": "created_by",
+    "name": "Pharmacie Vita-Plus"
+  }
+},
+{
+  "type": "node",
+  "id": 974110128,
+  "lat": 9.0042643,
+  "lon": 1.6681128,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pharmacy SAFARI"
+  }
+},
+{
+  "type": "node",
+  "id": 1080449816,
+  "lat": 9.0086408,
+  "lon": 1.6739195,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 1289272967,
+  "lat": 9.5475895,
+  "lon": 1.1945918,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Pharmacie Lafia"
+  }
+},
+{
+  "type": "node",
+  "id": 1289272973,
+  "lat": 9.5536476,
+  "lon": 1.1953894,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "name": "Pharmacie Kara Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 1291724394,
+  "lat": 9.5630569,
+  "lon": 1.2183584,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Croix Rouge"
+  }
+},
+{
+  "type": "node",
+  "id": 1291759392,
+  "lat": 9.5470340,
+  "lon": 1.1892523,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "pharmacie Espoir"
+  }
+},
+{
+  "type": "node",
+  "id": 1292960067,
+  "lat": 9.5520529,
+  "lon": 1.2037914,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Tout est grâce"
+  }
+},
+{
+  "type": "node",
+  "id": 1292992597,
+  "lat": 9.5495003,
+  "lon": 1.1896730,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Pharmacie de la Kozah"
+  }
+},
+{
+  "type": "node",
+  "id": 1292999661,
+  "lat": 9.5525021,
+  "lon": 1.2041304,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "pharmacie Santé Plus",
+    "source": "Bing;Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1293018788,
+  "lat": 9.5713034,
+  "lon": 1.1785344,
+  "tags": {
+    "amenity": "pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 1590501019,
+  "lat": 9.3564523,
+  "lon": 2.6265627,
+  "tags": {
+    "addr:city": "Parakou",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "pharmacie TRANZA"
+  }
+},
+{
+  "type": "node",
+  "id": 2176867289,
+  "lat": 10.2963255,
+  "lon": 1.3812331,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Tissanta",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 2197628606,
+  "lat": 10.2215330,
+  "lon": 1.1166576,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé de Natta"
+  }
+},
+{
+  "type": "node",
+  "id": 2348404114,
+  "lat": 6.4024688,
+  "lon": 2.3393859,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "name": "Pharmacie Le Jourdain"
+  }
+},
+{
+  "type": "node",
+  "id": 2361977349,
+  "lat": 6.1805575,
+  "lon": 1.1952619,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "health": "medicine",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie de Djidjolé"
+  }
+},
+{
+  "type": "node",
+  "id": 2361977373,
+  "lat": 6.1825406,
+  "lon": 1.1999865,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Mathilda",
+    "opening_hours": "24/7",
+    "phone": "+228222511584"
+  }
+},
+{
+  "type": "node",
+  "id": 2394741538,
+  "lat": 6.3584067,
+  "lon": 2.4315012,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Jonquet"
+  }
+},
+{
+  "type": "node",
+  "id": 2435398462,
+  "lat": 6.2239604,
+  "lon": 1.2101698,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Médico-Social d'Agoè-Nyivé",
+    "source": "bing; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2435398465,
+  "lat": 6.2256655,
+  "lon": 1.2108244,
+  "tags": {
+    "addr:city": "Agouenyive",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Agoè-Nyivé",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-12:00",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2454830083,
+  "lat": 6.2277965,
+  "lon": 1.5963187,
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "centre medico sosial Lanmessin"
+  }
+},
+{
+  "type": "node",
+  "id": 2454830092,
+  "lat": 6.2285154,
+  "lon": 1.5991677,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Centre Médico-Social Lanmessin"
+  }
+},
+{
+  "type": "node",
+  "id": 2462968340,
+  "lat": 9.3239007,
+  "lon": 2.6136267,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie"
+  }
+},
+{
+  "type": "node",
+  "id": 2481870007,
+  "lat": 6.3781996,
+  "lon": 2.3902366,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Marché Vedoko"
+  }
+},
+{
+  "type": "node",
+  "id": 2499528284,
+  "lat": 6.3787742,
+  "lon": 2.3909428,
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Clinique Cega",
+    "source": "GPS;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2499580592,
+  "lat": 6.4054126,
+  "lon": 2.3419180,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "Pharmacie carrefour IITA",
+    "name": "Pharmacie Togoudo",
+    "phone": "+229 21352162",
+    "source": "GPS;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2514667734,
+  "lat": 6.2358935,
+  "lon": 1.1940329,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Pharmacie Emmaus",
+    "source": "Bing;Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2529951882,
+  "lat": 9.3413099,
+  "lon": 2.6149412,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Centre de Santé de Kpebie"
+  }
+},
+{
+  "type": "node",
+  "id": 2559806823,
+  "lat": 6.1922583,
+  "lon": 1.1910253,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "name": "Pharmacie de la Nation",
+    "phone": "+22822259965",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2559924556,
+  "lat": 6.1966467,
+  "lon": 1.1867889,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "name": "Pharmacie Solidarité"
+  }
+},
+{
+  "type": "node",
+  "id": 2603626243,
+  "lat": 6.2195080,
+  "lon": 1.2091379,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "La Grace"
+  }
+},
+{
+  "type": "node",
+  "id": 2603657484,
+  "lat": 6.2176737,
+  "lon": 1.2035110,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Pharmacie Shalom",
+    "source": "Bing;Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2605942908,
+  "lat": 6.3851686,
+  "lon": 2.3838435,
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Clinique St Vincent de Paul",
+    "operator:type": "private",
+    "source": "GPS;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2605982145,
+  "lat": 6.3825642,
+  "lon": 2.3819490,
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Clinique Fandinan",
+    "operator:type": "private",
+    "source": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2606268255,
+  "lat": 10.1827561,
+  "lon": 1.1005103,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Dépôt pharmaceutique",
+    "source": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2608180191,
+  "lat": 6.1836659,
+  "lon": 1.1979357,
+  "tags": {
+    "addr:housenumber": "626",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Clinique d'Amédégnato"
+  }
+},
+{
+  "type": "node",
+  "id": 2619439029,
+  "lat": 6.5040656,
+  "lon": 2.6106479,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Les Palmiers"
+  }
+},
+{
+  "type": "node",
+  "id": 2619447839,
+  "lat": 6.3795405,
+  "lon": 2.6082830,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Nouvelle Horizont"
+  }
+},
+{
+  "type": "node",
+  "id": 2619670522,
+  "lat": 6.1816450,
+  "lon": 1.2349348,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "name": "Pharmacie Chinoise",
+    "source": "Bing and survey",
+    "type": "Chinoise"
+  }
+},
+{
+  "type": "node",
+  "id": 2619686560,
+  "lat": 6.1830548,
+  "lon": 1.2354178,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "name": "Pharmacie des Lilas",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2619760944,
+  "lat": 6.1865447,
+  "lon": 1.2411546,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Clinique Espérance",
+    "operator:type": "private",
+    "source": "Bing and survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2663777467,
+  "lat": 6.1812949,
+  "lon": 1.1905973,
+  "tags": {
+    "addr:city": "Lomé",
+    "amenity": "pharmacy",
+    "name": "Pharmacie Du Point E",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2700620321,
+  "lat": 6.2414010,
+  "lon": 1.2012058,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "name": "Pharmacie Excellence",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2707777978,
+  "lat": 6.2395574,
+  "lon": 1.1946542,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Clinique Ophtalmologique SOURCE DE VUE",
+    "source": "Survey;Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2711055478,
+  "lat": 6.9420519,
+  "lon": 1.6952664,
+  "tags": {
+    "amenity": "hospital",
+    "health_facility:type": "hospital",
+    "name": "Hôpital de zone de Aplahoué",
+    "operator:type": "public",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2782366114,
+  "lat": 6.3569121,
+  "lon": 2.4008066,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie"
+  }
+},
+{
+  "type": "node",
+  "id": 2975752949,
+  "lat": 6.6067339,
+  "lon": 1.3961438,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2999565756,
+  "lat": 6.2404981,
+  "lon": 1.6235337,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pharmacie AZON-CONDJI",
+    "source": "bing; survey",
+    "source:date": "2014/08/05"
+  }
+},
+{
+  "type": "node",
+  "id": 2999707682,
+  "lat": 6.2373889,
+  "lon": 1.6125532,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pharmacie d'Aného Woezon",
+    "source": "bing;survey 2014",
+    "source:date": "2014/08/06"
+  }
+},
+{
+  "type": "node",
+  "id": 2999860534,
+  "lat": 6.2368165,
+  "lon": 1.6089395,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Hospitalier d'Aneho Adjido",
+    "short_name": "CHA",
+    "source": "bing;survey 2014",
+    "source:date": "2014/08/06"
+  }
+},
+{
+  "type": "node",
+  "id": 2999860544,
+  "lat": 6.2383358,
+  "lon": 1.6111053,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "TOGOPHARMA",
+    "source": "bing,survey",
+    "source:date": "2014/08/06"
+  }
+},
+{
+  "type": "node",
+  "id": 2999913763,
+  "lat": 6.2358875,
+  "lon": 1.6074398,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pharmacie Amessiame",
+    "source": "biing;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3003189592,
+  "lat": 6.2394862,
+  "lon": 1.6111160,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "PHARMACOPE",
+    "source": "Bing;survey",
+    "source:date": "2014/08/07"
+  }
+},
+{
+  "type": "node",
+  "id": 3018655774,
+  "lat": 6.3922788,
+  "lon": 2.3496909,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pharmacie Ste Adèle",
+    "source": "GPS;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3027748610,
+  "lat": 9.3485797,
+  "lon": 2.5902625,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Centre de santé d'Albarika"
+  }
+},
+{
+  "type": "node",
+  "id": 3027748612,
+  "lat": 9.3477408,
+  "lon": 2.5913064,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Sainte Marie"
+  }
+},
+{
+  "type": "node",
+  "id": 3032595370,
+  "lat": 6.3962015,
+  "lon": 2.3475255,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Clinique d'accouchement Dofon"
+  }
+},
+{
+  "type": "node",
+  "id": 3032612607,
+  "lat": 6.3938350,
+  "lon": 2.3428250,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pharmacie Godomey centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3084912685,
+  "lat": 7.4273008,
+  "lon": 3.8933804,
+  "tags": {
+    "amenity": "hospital",
+    "name": "sango pataki community health center"
+  }
+},
+{
+  "type": "node",
+  "id": 3084930065,
+  "lat": 7.3593327,
+  "lon": 3.8898038,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Moris Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 3084963901,
+  "lat": 7.3942642,
+  "lon": 3.8720569,
+  "tags": {
+    "addr:city": "Ibadan",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Government Chest Hospital,Jericho"
+  }
+},
+{
+  "type": "node",
+  "id": 3084979307,
+  "lat": 7.3754513,
+  "lon": 3.8869162,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Allahu Lateef Chemist"
+  }
+},
+{
+  "type": "node",
+  "id": 3085001501,
+  "lat": 7.3765199,
+  "lon": 3.8976242,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Mapo Health Center"
+  }
+},
+{
+  "type": "node",
+  "id": 3085001502,
+  "lat": 7.3765179,
+  "lon": 3.8976158,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Immaculate Maternity"
+  }
+},
+{
+  "type": "node",
+  "id": 3085040944,
+  "lat": 7.3673147,
+  "lon": 3.8994987,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Agbongbon Health Center"
+  }
+},
+{
+  "type": "node",
+  "id": 3252664061,
+  "lat": 6.3561527,
+  "lon": 2.4184560,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Camp Guezo",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 3252689674,
+  "lat": 6.3817438,
+  "lon": 2.3795598,
+  "tags": {
+    "addr:housenumber": "3652",
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie de l’amitie",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 3259917661,
+  "lat": 6.3589863,
+  "lon": 2.4363023,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "pharmacie Vogue"
+  }
+},
+{
+  "type": "node",
+  "id": 3260370223,
+  "lat": 6.3661640,
+  "lon": 2.4206788,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Adéchina",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3260370355,
+  "lat": 6.3617048,
+  "lon": 2.4344736,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "pharmacie atinkanmey",
+    "source:dispensing": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3260372490,
+  "lat": 6.3664602,
+  "lon": 2.4293500,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "pharmacie saint michel"
+  }
+},
+{
+  "type": "node",
+  "id": 3260372492,
+  "lat": 6.3674063,
+  "lon": 2.4241742,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "pharmacie forum santé",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3260372682,
+  "lat": 6.3686840,
+  "lon": 2.4288576,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Sainte Cecile"
+  }
+},
+{
+  "type": "node",
+  "id": 3260385361,
+  "lat": 6.3618307,
+  "lon": 2.4347023,
+  "tags": {
+    "addr:housenumber": "424",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Polyclinique Atinkanmey",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3260385561,
+  "lat": 6.3596540,
+  "lon": 2.4258528,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Zongo"
+  }
+},
+{
+  "type": "node",
+  "id": 3260385661,
+  "lat": 6.3645010,
+  "lon": 2.4204490,
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Clinique les Graces"
+  }
+},
+{
+  "type": "node",
+  "id": 3260703523,
+  "lat": 6.3860489,
+  "lon": 2.3744395,
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "neurologie",
+    "name": "clinique Mermah",
+    "operator:type": "private",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3260703524,
+  "lat": 6.3875949,
+  "lon": 2.3687693,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Nouvelle Pharmacie Mènontin",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3260703526,
+  "lat": 6.3884101,
+  "lon": 2.3740903,
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "healthcare:speciality": "neurologie",
+    "name": "Clinique Branda",
+    "operator:type": "private",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3260703527,
+  "lat": 6.3868890,
+  "lon": 2.3846739,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "pharmacie renouveau",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3260703530,
+  "lat": 6.3921655,
+  "lon": 2.3828379,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "pharmacie Zogbohoue"
+  }
+},
+{
+  "type": "node",
+  "id": 3260745363,
+  "lat": 6.3920263,
+  "lon": 2.3648379,
+  "tags": {
+    "addr:city": "Cotonou",
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Kindonou"
+  }
+},
+{
+  "type": "node",
+  "id": 3260745461,
+  "lat": 6.3883621,
+  "lon": 2.3746531,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Sainte Famile"
+  }
+},
+{
+  "type": "node",
+  "id": 3260745561,
+  "lat": 6.3900911,
+  "lon": 2.3879721,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "pharmacie Zogbo"
+  }
+},
+{
+  "type": "node",
+  "id": 3260745562,
+  "lat": 6.3908238,
+  "lon": 2.3934549,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "pharmacie le tamaya",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3260745563,
+  "lat": 6.3908344,
+  "lon": 2.3977869,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Palace Plus"
+  }
+},
+{
+  "type": "node",
+  "id": 3263349461,
+  "lat": 6.3705625,
+  "lon": 2.4166009,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Marina"
+  }
+},
+{
+  "type": "node",
+  "id": 3292288008,
+  "lat": 6.2113261,
+  "lon": 1.1771699,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pharmacie des Orchidées"
+  }
+},
+{
+  "type": "node",
+  "id": 3477341780,
+  "lat": 6.1850322,
+  "lon": 1.1662730,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pharmacie Adidogomé",
+    "source": "Bing; Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3477726755,
+  "lat": 6.2002775,
+  "lon": 1.1487142,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Pharmacie La Référence"
+  }
+},
+{
+  "type": "node",
+  "id": 3574876893,
+  "lat": 6.4231951,
+  "lon": 2.3186322,
+  "tags": {
+    "amenity": "clinic",
+    "name": "Clinique Mahungon de Tankpè",
+    "operator:type": "private",
+    "source": "gps,survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3575063193,
+  "lat": 6.2158499,
+  "lon": 1.1723495,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pharmacie Dieudonné",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3575063194,
+  "lat": 6.2070435,
+  "lon": 1.1831321,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pharmacie Laus Deo",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3575063195,
+  "lat": 6.2013791,
+  "lon": 1.1882347,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pharmacie Le Galien",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3575063196,
+  "lat": 6.2068745,
+  "lon": 1.1896092,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pharmacie Le Millenaire",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3575063197,
+  "lat": 6.2167697,
+  "lon": 1.1887731,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Notre Dame de LOURDES",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3575063198,
+  "lat": 6.2205598,
+  "lon": 1.1698952,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pharmacie des Roses",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3575199600,
+  "lat": 6.1925569,
+  "lon": 1.1440521,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Pharmacie ACTUELLE",
+    "source": "bing, survey"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,55 @@
+id,name,type,department,commune,lat,lon,served_population,storage_capacity_l,has_cold_chain,is_hard_to_reach,source,is_simulated
+fac-depot-central,Dépôt Central Pharmaceutique National,central_depot,Littoral,Cotonou,6.3685,2.435,13000000,450000,1,0,Ministère de la Santé (Position simulée),true
+fac-cnhu-cotonou,CNHU-HKM Cotonou,referral_hospital,Littoral,Cotonou,6.3612,2.4095,680000,85000,1,0,OpenStreetMap way/23891045,true
+fac-chu-mel,CHU Mère-Enfant Lagune (CHU-MEL),referral_hospital,Littoral,Cotonou,6.367,2.428,450000,42000,1,0,OpenStreetMap node/41289012,true
+fac-chud-portonovo,CHUD Ouémé-Plateau (Porto-Novo),referral_hospital,Ouémé,Porto-Novo,6.499,2.625,780000,55000,1,0,OpenStreetMap node/52391034,true
+fac-chud-parakou,CHUD Borgou-Alibori (Parakou),referral_hospital,Borgou,Parakou,9.348,2.622,850000,60000,1,0,OpenStreetMap node/63124567,true
+fac-chd-zou,CHD Zou-Collines (Bohicon),referral_hospital,Zou,Bohicon,7.185,2.058,620000,48000,1,0,OpenStreetMap node/74892011,true
+fac-chd-atacora,CHD Atacora (Natitingou),referral_hospital,Atacora,Natitingou,10.312,1.375,420000,38000,1,0,OpenStreetMap node/89012345,true
+fac-hop-tanguieta,Hôpital de Zone Saint-Jean de Dieu (Tanguiéta),referral_hospital,Atacora,Tanguiéta,10.625,1.264,290000,35000,1,1,OpenStreetMap node/89012399,true
+fac-chd-mono,CHD Mono-Couffo (Lokossa),referral_hospital,Mono,Lokossa,6.642,1.721,460000,40000,1,0,OpenStreetMap node/91234567,true
+fac-hz-djougou,Hôpital de Zone de Djougou,referral_hospital,Donga,Djougou,9.715,1.662,340000,36000,1,0,OpenStreetMap node/92345678,true
+fac-hz-kandi,Hôpital de Zone de Kandi,referral_hospital,Alibori,Kandi,11.139,2.932,380000,35000,1,0,OpenStreetMap node/93456789,true
+fac-hz-malanville,Hôpital de Zone de Malanville,referral_hospital,Alibori,Malanville,11.871,3.386,210000,28000,1,1,OpenStreetMap node/94567890,true
+fac-hz-calavi,Hôpital de Zone d'Abomey-Calavi / Sô-Ava,referral_hospital,Atlantique,Abomey-Calavi,6.456,2.351,580000,45000,1,0,OpenStreetMap node/95678901,true
+fac-hz-pobe,Hôpital de Zone de Pobè,referral_hospital,Plateau,Pobè,6.985,2.668,250000,30000,1,0,OpenStreetMap node/96789012,true
+fac-cs-agla,Centre de Santé d'Agla,health_center,Littoral,Cotonou,6.382,2.378,72000,9000,1,0,healthsites.io (simulé),true
+fac-cs-fidjrosse,Centre de Santé de Fidjrossè,health_center,Littoral,Cotonou,6.361,2.365,68000,8500,1,0,healthsites.io (simulé),true
+fac-cs-akpakpa,Centre de Santé d'Akpakpa,health_center,Littoral,Cotonou,6.371,2.441,91000,10000,1,0,healthsites.io (simulé),true
+fac-cs-vedoko,Centre de Santé de Vèdoko,health_center,Littoral,Cotonou,6.376,2.389,58000,7500,1,0,healthsites.io (simulé),true
+fac-cs-menontin,Centre de Santé de Ménontin,health_center,Littoral,Cotonou,6.378,2.385,85000,12000,1,0,healthsites.io,true
+fac-cs-godomey,Centre de Santé de Godomey,health_center,Atlantique,Abomey-Calavi,6.418,2.338,145000,15000,1,0,healthsites.io,true
+fac-cs-ouidah,Centre de Santé de Ouidah,health_center,Atlantique,Ouidah,6.3606,2.0876,82000,9500,1,0,healthsites.io (simulé),true
+fac-cs-abomey,Centre de Santé d'Abomey,health_center,Zou,Abomey,7.1866,1.9921,79000,9000,0,0,healthsites.io (simulé),true
+fac-cs-savalou,Centre de Santé de Savalou,health_center,Collines,Savalou,7.9307,1.9764,61000,7000,0,0,healthsites.io (simulé),true
+fac-cs-dassa,Centre de Santé de Dassa-Zoumè,health_center,Collines,Dassa-Zoumè,7.7887,2.1893,55000,6500,0,0,healthsites.io (simulé),true
+fac-cs-bassila,Centre de Santé de Bassila,health_center,Donga,Bassila,9.0048,1.6681,47000,5800,0,1,healthsites.io (simulé),true
+fac-cs-bembereke,Centre de Santé de Bembèrèkè,health_center,Borgou,Bembèrèkè,10.2186,2.6631,52000,6200,0,0,healthsites.io (simulé),true
+fac-cs-banikoara,Centre de Santé de Banikoara,health_center,Alibori,Banikoara,11.301,2.4364,49000,5800,0,1,healthsites.io (simulé),true
+fac-cs-lokossa,Centre de Santé de Lokossa,health_center,Mono,Lokossa,6.65,1.715,53000,6500,0,0,healthsites.io (simulé),true
+fac-cs-aplahoue,Centre de Santé d'Aplahoué,health_center,Couffo,Aplahoué,7.0024,1.6839,44000,5500,0,0,healthsites.io (simulé),true
+fac-cs-pobe,Centre de Santé de Pobè,health_center,Plateau,Pobè,6.978,2.659,48000,6000,0,0,healthsites.io (simulé),true
+fac-cs-sakete,Centre de Santé de Sakété,health_center,Plateau,Sakété,6.7344,2.6592,41000,5200,0,0,healthsites.io (simulé),true
+fac-cs-ketou,Centre de Santé de Kétou,health_center,Plateau,Kétou,7.359,2.5994,38000,4800,0,0,healthsites.io (simulé),true
+fac-cs-boukoumbe,Centre de Santé Rural de Boukoumbé,health_center,Atacora,Boukoumbé,10.181,1.112,45000,5500,0,1,healthsites.io,true
+fac-cs-karimama,Centre de Santé Frontalier de Karimama,health_center,Alibori,Karimama,12.068,3.181,41000,5200,0,1,healthsites.io,true
+fac-cs-tori,Centre de Santé de Tori-Bossito,health_center,Atlantique,Tori-Bossito,6.5134,2.155,35000,4500,0,0,healthsites.io (simulé),true
+fac-cs-kpomasse,Centre de Santé de Kpomassè,health_center,Atlantique,Kpomassè,6.5891,2.0724,32000,4200,0,0,healthsites.io (simulé),true
+fac-cs-come,Centre de Santé de Comè,health_center,Mono,Comè,6.4071,1.8866,39000,5000,0,0,healthsites.io (simulé),true
+fac-cs-nikki,Centre de Santé de Nikki,health_center,Borgou,Nikki,9.9432,3.2064,43000,5200,0,1,healthsites.io (simulé),true
+fac-cs-perere,Centre de Santé de Pèrèrè,health_center,Borgou,Pèrèrè,10.7481,3.0543,28000,3800,0,1,healthsites.io (simulé),true
+fac-cs-copargo,Centre de Santé de Copargo,health_center,Donga,Copargo,9.848,1.526,30000,4000,0,1,healthsites.io (simulé),true
+fac-cs-tchaourou,Centre de Santé de Tchaourou,health_center,Borgou,Tchaourou,8.8786,2.5993,36000,4600,0,0,healthsites.io (simulé),true
+fac-cs-materi,Centre de Santé de Matéri,health_center,Atacora,Matéri,10.6969,1.0618,33000,4200,0,1,healthsites.io (simulé),true
+fac-ph-campguezo,Pharmacie Camp Guézo,pharmacy,Littoral,Cotonou,6.364,2.411,35000,6500,1,0,OpenStreetMap,true
+fac-ph-etoile,Pharmacie de l'Étoile Rouge,pharmacy,Littoral,Cotonou,6.372,2.408,42000,8000,1,0,OpenStreetMap,true
+fac-ph-parakou,Pharmacie Albarika (Parakou),pharmacy,Borgou,Parakou,9.352,2.628,48000,8000,1,0,OpenStreetMap,true
+fac-ph-portonovo,Pharmacie de l'Espoir (Porto-Novo),pharmacy,Ouémé,Porto-Novo,6.4943,2.616,38000,7000,1,0,OpenStreetMap (simulé),true
+fac-ph-natitingou,Pharmacie du Centre (Natitingou),pharmacy,Atacora,Natitingou,10.308,1.382,31000,5500,0,0,OpenStreetMap (simulé),true
+fac-ph-lokossa,Pharmacie Sainte-Claire (Lokossa),pharmacy,Mono,Lokossa,6.639,1.718,27000,5000,0,0,OpenStreetMap (simulé),true
+fac-ph-abomey-calavi,Pharmacie Santé Plus (Abomey-Calavi),pharmacy,Atlantique,Abomey-Calavi,6.448,2.345,44000,7500,1,0,OpenStreetMap (simulé),true
+fac-ph-bohicon,Pharmacie du Zou (Bohicon),pharmacy,Zou,Bohicon,7.181,2.062,29000,5200,0,0,OpenStreetMap (simulé),true
+fac-ph-cotonou-est,Pharmacie Cotonou-Est,pharmacy,Littoral,Cotonou,6.368,2.45,36000,6000,1,0,OpenStreetMap (simulé),true
+fac-ph-djougou,Pharmacie de la Donga (Djougou),pharmacy,Donga,Djougou,9.71,1.668,24000,4500,0,0,OpenStreetMap (simulé),true
+fac-ph-kandi,Pharmacie de l'Alibori (Kandi),pharmacy,Alibori,Kandi,11.134,2.936,22000,4200,0,0,OpenStreetMap (simulé),true
+fac-ph-abomey,Pharmacie Royale (Abomey),pharmacy,Zou,Abomey,7.184,1.996,26000,4800,0,0,OpenStreetMap (simulé),true

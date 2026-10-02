@@ -1,0 +1,21 @@
+{
+  "model_version": "demand_lightgbm_v1.0.0",
+  "status": "validated_on_simulated_data",
+  "condition_of_use_fr": "Entraîné et évalué sur données simulées uniquement. Non validé sur données réelles de dispensation. La validation sur données réelles est l'étape suivante.",
+  "trained_at": "2026-10-01T22:20:14.021772+00:00",
+  "seed": 42,
+  "train_rows": 112850,
+  "n_facilities": 53,
+  "n_products": 20,
+  "cv_wape_mean": 0.661354,
+  "cv_wape_std": 0.020218,
+  "test_wape": 0.60921,
+  "test_mase": 0.561486,
+  "test_bias": -0.009849,
+  "test_coverage_q10_q90": 0.795934,
+  "empirical_coverage_conformal": 0.799739,
+  "naive_wape": 1.084996,
+  "data_sha256": "09706088c053ebea1ee637c27d7897a908377c674212d2405506f36fc3aa800d",
+  "feature_count": 30,
+  "model_size_bytes": 1846217
+}
