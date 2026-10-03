@@ -179,7 +179,7 @@ def load_facilities(client=None) -> pd.DataFrame:
 def load_consumption(client=None) -> pd.DataFrame:
     """Charge l'historique de consommation hebdomadaire."""
     if client is not None:
-        rows = client.table("consumption_history").select("*").order("week_start").execute().data
+        rows = client.table("consumption_weekly").select("*").order("week_start").execute().data
         df = pd.DataFrame(rows)
     else:
         path = DATA_PROCESSED / "historical_consumption_benin.csv"
@@ -924,10 +924,51 @@ def write_supabase(
     # pour respecter la limite de 500 Mo du plan Supabase Free (CDC §6.5)
     purge_old_runs(client, keep_last_n=5)
     
+    # Dedupliquer forecasts_df sur la cle primaire avant upsert
+    if not forecasts_df.empty:
+        pk = ["run_id", "facility_id", "product_id", "week_start"]
+        existing_cols = [c for c in pk if c in forecasts_df.columns]
+        if existing_cols:
+            forecasts_df = forecasts_df.drop_duplicates(subset=existing_cols, keep="last")
+
     upsert("forecasts", json.loads(forecasts_df.to_json(orient="records", date_format="iso")))
-    upsert("risk_scores", json.loads(risk_df.to_json(orient="records", date_format="iso")))
-    upsert("alerts", alerts)
-    upsert("transfer_recommendations", transfers)
+    # Filtrer risk_df pour ne garder que les colonnes de la table SQL risk_scores
+    _risk_cols = ["run_id", "facility_id", "product_id", "days_coverage",
+                  "days_coverage_conservative", "p_stockout_7d", "p_stockout_14d",
+                  "p_stockout_30d", "priority_score", "model_version"]
+    _risk_send = risk_df[[c for c in _risk_cols if c in risk_df.columns]].copy()
+    if "model_version" not in _risk_send.columns:
+        _risk_send["model_version"] = "demand_lightgbm_v1.0.0"
+
+    upsert("risk_scores", json.loads(_risk_send.to_json(orient="records", date_format="iso")))
+    # Filtrer alerts pour le schema SQL : run_id, facility_id, product_id, alert_type, severity, message_fr, acknowledged
+    _alerts_send = []
+    for _a in alerts:
+        _alerts_send.append({
+            "run_id":       run_record["run_id"],
+            "facility_id":  _a.get("facility_id", ""),
+            "product_id":   _a.get("product_id", ""),
+            "alert_type":   _a.get("alert_type", ""),
+            "severity":     _a.get("severity", "medium"),
+            "message_fr":   _a.get("message", _a.get("message_fr", "")),
+            "acknowledged": False,
+        })
+
+    upsert("alerts", _alerts_send)
+    # Filtrer les transferts pour ne garder que les colonnes SQL
+    _transfers_send = []
+    for _t in transfers:
+        _transfers_send.append({
+            "run_id":            run_record["run_id"],
+            "from_facility_id":  _t.get("from_facility_id","").rsplit("_",1)[0] if _t.get("from_facility_id","").rsplit("_",1)[-1].isupper() else _t.get("from_facility_id",""),
+            "to_facility_id":    _t.get("to_facility_id","").rsplit("_",1)[0] if _t.get("to_facility_id","").rsplit("_",1)[-1].isupper() else _t.get("to_facility_id",""),
+            "product_id":        _t.get("product_id") or None,
+            "quantity":          int(_t.get("quantity", 0)),
+            "reason":            _t.get("reason_fr", "Transfert recommande"),
+            "status":            _t.get("status", "pending"),
+        })
+
+    upsert("transfer_recommendations", _transfers_send)
     upsert("delivery_routes", vrp_to_delivery_rows(vrp_result, run_record["run_id"]))
 
     # Journal (run_id mis à jour EN DERNIER)
@@ -992,13 +1033,13 @@ def main() -> int:
     # ------------------------------------------------------------------
     log.info("[2/11] Chargement des données…")
     try:
-        facilities_df = load_facilities(client)
+        facilities_df = load_facilities(None)  # CSV local
         validate_facilities(facilities_df)
 
-        consumption_df = load_consumption(client)
+        consumption_df = load_consumption(None)  # CSV local
         validate_consumption(consumption_df, facilities_df)
 
-        weather_df = load_weather(client)
+        weather_df = load_weather(None)  # CSV local
         if not weather_df.empty:
             log.info("  Météo : %d lignes chargées.", len(weather_df))
         else:
@@ -1202,6 +1243,11 @@ def main() -> int:
     }
 
     try:
+        forecasts_df['run_id'] = run_id
+        coverage_df['run_id'] = run_id
+        forecasts_df['run_id'] = run_id
+        coverage_df['run_id'] = run_id
+
         if use_supabase:
             write_supabase(client, forecasts_df, coverage_df, alerts, transfers, vrp_result, run_record)
         else:
@@ -1220,3 +1266,6 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+
+
+
